@@ -1,4 +1,4 @@
 [build]
   command = "npm run build"
-  publish = "build" # Or whatever your publish directory is
-  timeout = 30m # Increase to 30 minutes
+  publish = "build"
+  timeout = 30m
