@@ -5,7 +5,7 @@ const { notFound, errorHandler } = require("./middlewares/errorHandler");
 const app = express();
 const dotenv = require("dotenv").config();
 const authRouter = require("./routes/authRoute");
-const productRouter = require("./routes/productRoute")
+const productRouter = require("./routes/productRoute");
 const categoryRouter = require("./routes/prodcategoryRoute");
 const enqRouter = require("./routes/enqRoute");
 const uploadRouter = require("./routes/uploadRoute");
@@ -19,7 +19,7 @@ app.use(morgan("dev"));
 // Handle cors
 app.use(
   cors({
-    origin: "*", // or specify specific origins
+    origin: ["https://rootsinnature.vercel.app/"], // or specify specific origins
     methods: ["GET", "POST", "PUT", "DELETE"],
     allowedHeaders: ["Content-Type", "Authorization"],
   })
@@ -36,6 +36,10 @@ app.use("/api/product", productRouter);
 app.use("/api/category", categoryRouter);
 app.use("/api/enquiry", enqRouter);
 app.use("/api/upload", uploadRouter);
+
+app.get("/", (req, res) => {
+  res.json({ message: "hello" });
+});
 
 // Error handling middleware
 app.use(notFound);
