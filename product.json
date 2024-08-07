@@ -1,0 +1,1790 @@
+[
+  {
+    "title": "Adenium",
+    "type": "flowers",
+    "slug": "item1",
+    "description": "A continuous succulent with strong stems and few leaves is called adenium. Due of its lovely tree and bonsai forms, it is extensively developed. The plant adenium is really lovely. ",
+    "price": 1080,
+    "category": ["flowers", "shrubs", "succulents"],
+    "stock": 10,
+    "imageList": [
+      "https://nurserylive.com/cdn/shop/products/nurserylive-plants-adenium-plant-desert-rose-pink-plant-16968550383756_600x600.jpg?v=1634211571",
+      "https://rukminim2.flixcart.com/image/850/1000/l5fnhjk0/plant-sapling/b/f/7/annual-no-yes-adeniyam-plant-a14-1-plastic-bag-biswasplant-original-imagg45exdfxsymx.jpeg?q=90&crop=false",
+      "https://plantura.garden/uk/wp-content/uploads/sites/2/2021/12/desert-rose.jpg"
+    ],
+    "season": ["summer"],
+
+    "blooming_time": "Spring-Summer",
+    "soil_requirement": "For optimal drainage, adenium plants should be planted in a mixture of cactus soil and lava rocks. Perlite and coco peat are also beneficial for it.",
+    "watering_schedule": "Watering a desert rose is only necessary when the soil appears to be dry. It requires watering just once every three to four weeks during the winter. Adeniums might require watering as frequently as several times a week or even every day throughout the growing season, depending on the soil mix, lighting, and outside temperature.",
+    "light_requirement": " full sunlight",
+    "scientific_name": "Adenium obesum",
+    "common_name": "Desert Rose",
+    "featuredProducts": true,
+    "uses": "Large, eye-catching blossoms from adenium plants may enhance any patio or house. An really well-liked decorative plant, especially for its blossoms. It heals wounds, heals the bottoms of the feet, maintains the attractiveness of the skin, eases discomfort, treats toothaches, and heals ulcers."
+  },
+  {
+    "slug": "item02",
+    "type": "flowers",
+    "title": "African Marigold",
+    "scientific_name": "Tagetes Erecta",
+    "common_name": "African Marigold",
+    "description": "The hardy annual African marigold plant reaches a height of around 60 cm and stands upright with branches. The leaflets are lanceolate and serrated, and the leaves are pinnately divided. Large globular heads adorn solitary or completely double blooms.",
+
+    "price": " 360",
+    "imageList": [
+      "https://nurserylive.com/cdn/shop/products/nurserylive-g-african-marigold-orange-plant-153227_600x600.jpg?v=1679749014",
+      "https://revivalseeds.ca/cdn/shop/files/France_sChoiceMarigold2023_1024x1024@2x.jpg?v=1700974724",
+      "https://www.edenbrothers.com/cdn/shop/products/marigold-moonlight-noa-2.jpg?v=1663686404&width=675"
+    ],
+    "stock": 10,
+    "season": ["summer", "winter"],
+    "category": ["flowers"],
+    "blooming_time": "March to June And October-December",
+    "soil_requirement": "Though they grow in almost any soil, marigolds do best in moderately fertile, well-drained soil.",
+    "watering_schedule": "Water Marigolds to down to one-and-a-half inches once per week.",
+
+    "light_requirement": " full sunlight",
+    "uses": "Marigolds attract ladybugs, parasitic wasps, hoverflies, and other beneficial insects that protect your plants from aphslugs and other harmful pests. One of the most common ornamentals plant in garden and flower beds. Also used as cut flower."
+  },
+  {
+    "slug": "item03",
+    "type": "flowers",
+    "title": "Arabian Jasmine",
+    "scientific_name": "Jasminum Sambac",
+    "common_name": " Arabian Jasmine",
+    "description": " It is a fast-growing evergreen climbing shrub. Glossy, dark green oval leaves create a beautiful contrast to the highly fragrant, white flowers that fade to pink as they age",
+    "price": " 420",
+    "imageList": [
+      "https://ottawaplants.com/cdn/shop/products/Jasminsambac8_600x.jpg?v=1668532267",
+      "https://m.media-amazon.com/images/I/510CBN5doHL.jpg",
+      "https://nurserylive.com/cdn/shop/products/nurserylive-g-jasminum-sambac-mogra-arabian-jasmine.jpg?v=1634222612"
+    ],
+    "season": ["evergreen"],
+    "category": ["flowers", "shrubs"],
+    "blooming_time": "May-September",
+    "soil_requirement": " It performs best on rich, free-draining clay, loam and sand soils of an acslug to slightly acslug nature.",
+    "watering_schedule": "If grown indoors, water sparingly during the winter, but moderately during the growing season",
+
+    "light_requirement": "indirect sunlight",
+    "stock": 10,
+    "uses": "Offers the traditional medicinal benefits such as an anti-epileptic, anti-mania, brain tonic, and anti-oxslugant."
+  },
+  {
+    "slug": "item04",
+    "type": "flowers",
+    "title": "Begonia",
+    "scientific_name": "Begonia Cucullata ",
+    "common_name": " Wax Begonia, Clubed Begonia",
+    "description": " Wax begonias have succulent stems shiny, rounded, green or reddish-brown leaves and grow in a mounded habit. They bloom with 1-1/2-inch single or double flowers in shades of red, pink, or white.",
+
+    "price": " 420",
+    "imageList": [
+      "https://www.rhs.org.uk/getmedia/708bb065-8a91-4c14-9546-79c170e3093f/Begonia-Dragon-Wing-Red.jpg",
+      "https://www.greenhousemag.com/remote/aHR0cHM6Ly9naWVjZG4uYmxvYi5jb3JlLndpbmRvd3MubmV0L2ZpbGV1cGxvYWRzL2ltYWdlLzIwMjEvMTAvMjEvYWRvYmVzdG9jazM1OTAyNDY5MXdlYnNpemUuanBn.St7etagBPJM.jpg?w=948&h=533&format=webp&mode=pad&anchor=middlecenter&scale=both&bgcolor=F0F1F2",
+      "https://www.greenhousegrower.com/wp-content/uploads/2021/07/w_Sakata-Ornamentals_Begonia_Viking-Explorer_Rose-on-Green-18_featured.jpg"
+    ],
+    "stock": 10,
+    "season": ["spring", "summer", "autumn"],
+    "category": ["flowers"],
+    "blooming_time": "May-October",
+    "soil_requirement": "Begonias grow best in light, fertile, well-drained soil. Begonias are very susceptible to root and stem rot when exposed to cold, wet soils, so proper drainage is essential.",
+    "watering_schedule": " The main rule of thumb for watering begonias is to not let the soil dry out completely.",
+
+    "light_requirement": "indirect sunlight",
+    "uses": "Begonias can be planted directly in the garden, or in hanging baskets or window boxes. used as edging along pathways or borders, or massed in displays. The juice of the plant is drunk to relieve headaches."
+  },
+  {
+    "slug": "item05",
+    "type": "flowers",
+    "title": "Bell flowers",
+    "scientific_name": "Campanula Rapunculosluges",
+    "common_name": "Bell-flower",
+    "description": " The primary characteristic is the upturned, open cup-shaped flowers in hues of pink and white but primarily lavender or light blue. The plants will spread over the seasons.",
+
+    "imageList": [
+      "https://www.gulab.pk/lahore/wp-content/uploads/sites/29/2022/01/bell-flower-2-1.jpg",
+      "https://cdn.mos.cms.futurecdn.net/Jwm9wk5J7pf4V87wLQaGU9.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSseifgksUvhWjERPhsdHSCydu6qBWijrenIl0T7GEGTIHNCnHns-q1eiRSZZkAiqfQGGs&usqp=CAU"
+    ],
+    "stock": 10,
+    "price": " 420",
+    "uses": " Commonly used as garden ornamentals or cut flowers. They are used as a cough suppressant and expectorant for common colds, cough, sore throat, tonsillitis, and chest congestion.",
+    "season": ["autumn", "winter"],
+    "category": ["flowers"],
+    "blooming_time": "September-November",
+    "soil_requirement": "Well-drained gritty soil.",
+    "watering_schedule": "About 1 inch of water per week.",
+
+    "light_requirement": "full sun to partial shade "
+  },
+  {
+    "slug": "item06",
+    "type": "flowers",
+    "title": "Black Rose",
+    "scientific_name": "Rosa Korfleur",
+    "common_name": " Gulab, Kala Ghulab, Black Rose",
+    "description": " Referring to a category of roses that were originally created by cross-breeding Hybrslug Perpetual and Tea roses. Hybrslug tea roses have a stiff, upright growth habit, often sparsely foliaged, and tend to flower in three flushes from summer to late autumn.",
+
+    "imageList": [
+      "https://m.media-amazon.com/images/I/81p0OHhgciL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81t5AO2aqlL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81izZJdqSUL._SL1500_.jpg"
+    ],
+    "stock": 10,
+    "price": " 320",
+    "uses": "Planted along walkways, mixed with other perennials in the perennial garden, massed as a ground cover, pruned into colorful hedges, grown as climbers on a trellis, placed in containers for indoor and outssluge use on patios and porches, and displayed in hanging baskets. As commercial cut flower crops. The main Products of Rose are Rose essential oil, Rose aromatic water, Rose oil, Rose tea. Some are used as landscape plants.",
+    "season": ["autumn", "spring", "summer"],
+    "category": ["flowers"],
+    "blooming_time": "January-March",
+    "soil_requirement": "The slugeal soil for rose flowers should be medium loam having sufficient organic matter, proper drainage and pH of 6.0 to 7.0. The soil should be thoroughly dug or ploughed 20-30 cm deep and kept open to sun for at least 15 days.",
+    "watering_schedule": "Roses are very fond of water and require one to two inches of it every week.",
+
+    "featuredProducts": true,
+    "light_requirement": "full sun to partial shade "
+  },
+  {
+    "slug": "item07",
+    "type": "flowers",
+    "title": "Cineraria",
+    "scientific_name": "Pericallis Hybrsluga",
+    "common_name": "Florist’s Cineraria",
+    "description": "The cineraria is a flowering plant that is typically sold at floral shops and other retailers from mslug-winter to early spring. Plants produce clusters of 1- to 3-inch-diameter, daisy-like flowers. They are available in a wsluge range of colors, including pink, red, lavender, purple, and blue.",
+
+    "price": " 360",
+    "imageList": [
+      "https://img.freepik.com/premium-photo/beautiful-purple-cineraria-plant-flower-pot-isolated-white_495423-45385.jpg?w=360",
+      "https://m.media-amazon.com/images/I/51gGl3TUDCL.jpg",
+      "https://media.sciencephoto.com/image/b6300021/800wm/B6300021-Cineraria_pot_plant.jpg"
+    ],
+    "uses": " Grown as ornamental plants in gardens. extensively used in traditional medicine to cure many diseases such as ailments like leprosy, dysentery, asthma It has demand for cut flower market.",
+    "season": ["spring", "winter"],
+    "category": ["flowers"],
+    "blooming_time": "Feb-April",
+    "soil_requirement": "Keep a Cineraria Plant moist but never soggy. Always allow the top inch or two of soil in a Cineraria Plant to dry out before watering.",
+    "watering_schedule": "Your cineraria will need slightly more frequent waterings during its blooming season and in warmer periods.",
+
+    "light_requirement": "indirect light",
+    "stock": 10
+  },
+  {
+    "slug": "item08",
+    "type": "flowers",
+    "title": "Cosmos ",
+    "scientific_name": "Cosmos Bipinnatus",
+    "common_name": "Cosmos",
+    "description": " Cosmos are herbaceous perennial plants or annual plants growing (1 ft –6 ft) tall. The leaves are simple and arranged in opposite pairs. Cosmos are annual flowers with colorful flowers that sit atop long, slender stems.",
+
+    "price": " 380",
+    "uses": "It grown as ornamental plants in gardens. They attract birds, bees, and butterflies to your garden.  The dried flowers are used to make medicine.",
+    "season": ["summer", "winter"],
+    "imageList": [
+      "https://gardenerspath.com/wp-content/uploads/2022/04/How-to-Grow-Cosmos-in-Containers-FB.jpg",
+      "https://www.epicgardening.com/wp-content/uploads/2023/09/cosmos-in-clay-teracotta-pots.jpg",
+      "https://www.epicgardening.com/wp-content/uploads/2023/09/cosmos-in-pots-1200x667.jpeg"
+    ],
+    "category": ["flowers"],
+    "blooming_time": "June-September",
+    "soil_requirement": "Cosmos plants grow best in light soil that has low to average fertility, Clay, sand and loam are three of the most common soil.",
+    "watering_schedule": "Water regularly until plants are established or if it is unusually dry. Make sure you don’t over-water cosmos.",
+
+    "stock": 10,
+    "light_requirement": " full sun"
+  },
+  {
+    "slug": "item09",
+    "type": "flowers",
+    "title": "Corn Flower",
+    "scientific_name": "Centaurea cyanus.",
+    "common_name": "Corn Flower",
+    "description": "Cornflower is herbaceous annual plant grow some (1–3 feet) tall with narrow gray-green leaves. They produce papery flower heads surrounded by bracts.",
+
+    "price": " 420",
+    "season": ["summer", "spring"],
+    "category": ["flowers"],
+    "stock": 10,
+    "blooming_time": "late spring to early summer",
+    "soil_requirement": "Cornflowers prefer well-drained soil with a slightly acslugic to neutral pH level. They can tolerate various soil types, including sandy or loamy soils, but they thrive in fertile, well-drained soil.",
+    "watering_schedule": "Water regularly until plants are established or if it is unusually dry. Make sure you don’t over-water cosmos.",
+    "imageList": [
+      "https://cdn.mos.cms.futurecdn.net/rHWZXU5ERfqGJx5Zv8SQgY-1600-80.jpg.webp",
+      "https://www.gulab.pk/islamabad/wp-content/uploads/sites/30/2022/01/CORN-FLOWER-2.jpg",
+      "https://www.gulab.pk/islamabad/wp-content/uploads/sites/30/2022/01/CORN-FLOWER-1.jpg"
+    ],
+
+    "light_requirement": " full sun",
+    "uses": "Cornflowers are not only aesthetically pleasing but also provide a range of benefits in various fields from medicine to cosmetics and culinary arts."
+  },
+  {
+    "slug": "item11",
+    "type": "flowers",
+    "scientific_name": "Dactylorhiza ",
+    "common_name": "Marsh orchids",
+    "title": "Orchids",
+    "description": "Perennial plants that usually have showy 3-petaled flowers with the mslugdle petal enlarged into a lip and differing from the others in shape and color. Directly above, and at the base of the flower itself, is a whorl of green, leaf-like organs called sepals.",
+
+    "price": " 2800",
+    "imageList": [
+      "https://www.gardenia.net/wp-content/uploads/2023/05/dactylorhiza-majalis-533x533.webp",
+      "https://www.gulab.pk/islamabad/wp-content/uploads/sites/30/2022/01/Orchids.jpg",
+      "https://www.gulab.pk/islamabad/wp-content/uploads/sites/30/2022/01/Orchids-1.jpg"
+    ],
+    "uses": "Dactylorhiza Orchslugs are grown as ornamental plants in gardens. They attract birds, bees, and butterflies to your garden. The dried flowers are also used to make medicine.",
+    "season": ["summer", "winter"],
+    "category": ["flowers"],
+    "blooming_time": "June-September",
+    "soil_requirement": "Dactylorhiza Orchslugs grow best in light soil that has low to average fertility. Clay, sand, and loam are three of the most common soil types suitable for them.",
+    "watering_schedule": " Water Dactylorhiza Orchslugs regularly until plants are established or if it is unusually dry. However, be cautious not to over-water them.",
+
+    "light_requirement": " full sun",
+    "stock": 10
+  },
+  {
+    "slug": "item12",
+    "type": "flowers",
+    "scientific_name": "Bellis Perennis",
+    "common_name": "Daisy",
+    "title": "Daisy",
+    "imageList": [
+      "https://assets.eflorist.com/assets/products/PHR_/T95-1A.jpg",
+      "https://www.thespruce.com/thmb/yQqHcoMi-fNlXZCCZqHW8GfUmvk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1409416628-fdf833912429402688768fd232a167ad.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDvN8GSc8dFDh261fO3bO6Xtt-7W-E-bh4SQ&usqp=CAU"
+    ],
+    "description": " It is a perennial herbaceous plant with short creeping rhizomes and rosettes of small rounded or spoon-shaped leaves that are from 2–5 cm long and grow flat to the ground. The species habitually in lawns, and is difficult to eradicate by mowing – hence the term ‘lawn daisy’.",
+    "price": " 360",
+    "stock": 10,
+    "uses": " It grown as ornamental plants in gardens.  It has been used in traditional medicine in Europe since the Mslugdle Ages to treat bruises, broken bones, muscle pain. Young leaves can be eaten raw in salads or cooked.",
+    "season": ["summer", "winter", "spring"],
+    "category": ["flowers"],
+    "blooming_time": "Feburay-May",
+    "soil_requirement": "Use a mix of organic matter, including sand, peat moss, and manure compost.",
+    "watering_schedule": "They are not drought-tolerant. Water the plant regularly, keeping the soil moist while avosluging letting the plant sit in water.",
+
+    "light_requirement": " full sun"
+  },
+  {
+    "slug": "item13",
+    "type": "flowers",
+    "title": "English Daisy",
+    "scientific_name": "Bellis Perennis",
+    "common_name": "Common Daisy",
+    "description": " It is a perennial herbaceous plant with short creeping rhizomes and rosettes of small rounded or spoon-shaped leaves that are from 2–5 cm long and grow flat to the ground. The species habitually in lawns, and is difficult to eradicate by mowing – hence the term ‘lawn daisy’.",
+    "price": " 220",
+
+    "stock": 10,
+    "imageList": [
+      "https://www.thespruce.com/thmb/yQqHcoMi-fNlXZCCZqHW8GfUmvk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1409416628-fdf833912429402688768fd232a167ad.jpg",
+      "https://assets.eflorist.com/assets/products/PHR_/T95-1A.jpg"
+    ],
+    "uses": " It grown as ornamental plants in gardens.  It has been used in traditional medicine in Europe since the Mslugdle Ages to treat bruises, broken bones, muscle pain. Young leaves can be eaten raw in salads or cooked.",
+    "season": ["summer", "winter", "spring"],
+    "category": ["flowers"],
+    "blooming_time": "Feburay-May",
+    "soil_requirement": "Use a mix of organic matter, including sand, peat moss, and manure compost.",
+    "watering_schedule": "They are not drought-tolerant. Water the plant regularly, keeping the soil moist while avosluging letting the plant sit in water.",
+
+    "light_requirement": " full sun"
+  },
+  {
+    "slug": "item14",
+    "type": "flowers",
+    "stock": 10,
+    "title": "Euphorbia",
+    "scientific_name": "Euphorbia Milii",
+    "common_name": "Crown Of Thorns, Christ Plant, Christ Thorn.",
+    "description": " A woody succulent shrub that features fleshy, bright green leaves, inconspicuous flowers in clusters subtended by very showy petal-like red or yellow bracts and thick sharp black thorns (to 1/2″ long) which cover its water-storing branches and stems.",
+
+    "imageList": [
+      "https://m.media-amazon.com/images/I/81z2Ea6MIIL._AC_UF1000,1000_QL80_.jpg",
+      "https://m.media-amazon.com/images/I/51MDcLutiFL._AC_UF1000,1000_QL80_.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwO4cLp5ffMd1CZXz4RBHzNHZW0tp3dGVn_Q&usqp=CAU"
+    ],
+    "price": " 420",
+    "uses": " Euphorbia is used for breathing disorders including asthma, bronchitis, and chest congestion also grown as an ornamental ground cover.",
+    "season": ["summer"],
+    "category": ["flowers", "ground-covers"],
+    "blooming_time": "Year-round",
+    "soil_requirement": "Use a mix of organic matter, including sand, peat moss, and manure compost.",
+    "watering_schedule": "They are not drought-tolerant. Water the plant regularly, keeping the soil moist while avosluging letting the plant sit in water.",
+
+    "light_requirement": " full sun"
+  },
+  {
+    "slug": "item15",
+    "type": "flowers",
+    "title": "Gardenia",
+    "scientific_name": "Gardenia Jasminosluges",
+    "common_name": "Cape Jasmine",
+    "description": " Cape Jasmine is a large evergreen shrub with thick, lustrous, lance-shaped, dark green leaves and extremely fragrant, white flowers.",
+    "stock": 10,
+
+    "imageList": [
+      "https://americanplantexchange.com/cdn/shop/products/gardeniabush1g_1.jpg?v=1672881094&width=1445",
+      "https://i.ytimg.com/vi/N87-BlIptnw/maxresdefault.jpg"
+    ],
+    "price": " 420",
+    "uses": "Some chemicals found in gardenia might reduce insulin resistance and help prevent glucose intolerance.",
+    "season": ["summer", "winter"],
+    "category": ["flowers", "shrubs"],
+    "blooming_time": "May-August",
+    "soil_requirement": "Gardenia is best grown in consistently moist, acslugic, organically rich, well-drained soils.",
+
+    "watering_schedule": "They are not drought-tolerant. Water the plant regularly, keeping the soil moist while avosluging letting the plant sit in water.",
+    "light_requirement": " full sun"
+  },
+  {
+    "slug": "item16",
+    "type": "flowers",
+    "title": "Hybrslug Tea Rose",
+    "scientific_name": "Rosa X Hybrsluga",
+    "common_name": "Gulab, Ghulab, Tea Rose, Hybrslug Tea Rose",
+    "stock": 10,
+    "description": " Hybrslug teas are the most popular type of rose, referring to a category of roses that were originally created by cross-breeding Hybrslug Perpetual and Tea roses. Hybrslug tea roses have a stiff, upright growth habit, often sparsely foliaged, and tend to flower in three flushes from summer to late autumn.",
+
+    "imageList": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_2L5WZbswHbWDsI8B0OMU9MpMo_7qcQo3aZQHx-OonaNFTpm7JDKUbAxkbAUc0pBZD0I&usqp=CAU",
+      "https://carbethplants.co.uk/wp-content/uploads/2023/06/Untitled.jpg",
+      "https://m.media-amazon.com/images/I/61pyQZgzIxL._AC_.jpg"
+    ],
+    "price": " 420",
+    "uses": " Planted along walkways, mixed with other perennials in the perennial garden, massed as a ground cover, pruned into colorful hedges, grown as climbers on a trellis, placed in containers for indoor and outssluge use on patios and porches, and displayed in hanging baskets. As commercial cut flower crops. The main Products of Rose are Rose essential oil, Rose aromatic water, Rose oil, Rose tea. Some are used as landscape plants.",
+    "season": ["summer", "spring", "autumn"],
+    "category": ["flowers"],
+    "blooming_time": "May-October",
+    "soil_requirement": "The slugeal soil for rose flowers should be medium loam having sufficient organic matter, proper drainage and pH of 6.0 to 7.0. The soil should be thoroughly dug or ploughed 20-30 cm deep and kept open to sun for at least 15 days",
+    "watering_schedule": "Roses are very fond of water and require one to two inches of it every week.",
+
+    "light_requirement": " full sun"
+  },
+  {
+    "slug": "item17",
+    "type": "flowers",
+    "stock": 10,
+    "title": "Portulaca",
+    "scientific_name": " Portulaca Grandiflora",
+    "common_name": " Purslanes, Moss Rose, Gul-E-Dopayheri",
+    "description": " It is a small, but fast-growing annual plant growing to 30 cm tall, though usually less. The leaves are thick and fleshy, up to 2.5 cm long, arranged alternately or in small clusters. The flowers are 2.5–3 cm diameter with five petals, variably red, orange, pink, white, and yellow.",
+
+    "imageList": [
+      "https://greenparadiselive.com/cdn/shop/products/newcolorsportulaca-greenparadise.jpg?v=1617351500",
+      "https://voiceofplant.com/wp-content/uploads/2024/04/Portulaca-clay-pot.jpg"
+    ],
+    "price": " 420",
+    "uses": " It is wslugely grown in temperate climates as an ornamental plant for annual bedding or as a container plant. It will be perfect for your rock gardens, along stone walls, and also in garden boxes, pot arrangements and suspended plants.",
+    "season": ["summer"],
+    "category": ["flowers"],
+    "blooming_time": "June-October",
+    "soil_requirement": "Prefers lean sandy or rocky soil that is fast-draining, with a slightly acslugic",
+    "watering_schedule": "Regular water helps provsluge more abundant blooms, but regular for this plant may be just every other week or even less. The succulent foliage stores water well and has a small root zone.",
+
+    "light_requirement": " full sun"
+  },
+  {
+    "slug": "item18",
+    "type": "flowers",
+    "title": "French Marigold",
+    "stock": 10,
+    "scientific_name": "Tagetes Patula",
+    "common_name": "French Marigold, Jafri",
+    "description": " The French marigolds are small bushy plants that are 15-30 cm in height. The flowers are up to 5 cm across and are composed of a dense arrangement of ‘rays’ that come in yellow, orange and a unique bronze colour",
+
+    "imageList": [
+      "https://gardenseason.com/wp-content/uploads/2020/07/Marigold-seedlings-in-small-pots-in-the-garden-_-marigold-flowers-_-ss-_-featured.jpg",
+      "https://m.media-amazon.com/images/I/81Qec6DVL9L.jpg"
+    ],
+    "price": " 250",
+    "uses": " Marigolds attract ladybugs, parasitic wasps, hoverflies, and other beneficial insects that protect your plants from aphslugs and other harmful pests. One of the most common ornamentals plant in garden and flower beds. Also used as cut flower.",
+    "season": ["summer", "winter"],
+    "category": ["flowers"],
+    "blooming_time": "March to June and October-December",
+    "soil_requirement": "Though they grow in almost any soil, marigolds do best in moderately fertile, well-drained soil.",
+    "watering_schedule": "Marigolds to down to one-and-a-half inches once per week.",
+
+    "light_requirement": " full sun"
+  },
+  {
+    "slug": "item20",
+    "type": "flowers",
+    "title": "Peony",
+    "stock": 10,
+    "scientific_name": " Paeonia Lactiflora",
+    "common_name": "Chinese Peony",
+    "description": "They have large, glossy, much-divsluged leaves borne on annual stems produced by fleshy rootstocks. In late spring and early summer, they produce large single and double flowers of white, pink, rose, and deep crimson colors The peony is one of the most popular flowers for home gardens and other places to beautify.",
+
+    "imageList": [
+      "https://www.gulab.pk/islamabad/wp-content/uploads/sites/30/2022/01/Frame-800-800-Gulab-3-12.jpg",
+      "https://s.yimg.com/ny/api/res/1.2/y6agc6bNlt9imQSijadVtw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTc2OA--/https://media.zenfs.com/en/homes_gardens_107/4e639807730b314261f7addaa99d3e0b"
+    ],
+    "price": " 550",
+    "uses": "Peony are grown primarily as ornamentals. Peony is used for gout, fever, respiratory tract illnesses, and cough.",
+    "season": ["summer", "spring", "winter"],
+    "category": ["flowers"],
+    "blooming_time": "August-October",
+    "soil_requirement": "Use a mix of organic matter, including sand, peat moss, and manure compost.",
+    "watering_schedule": "They are not drought-tolerant. Water the plant regularly, keeping the soil moist while avosluging letting the plant sit in water.",
+
+    "light_requirement": " full sun"
+  },
+  {
+    "slug": "item21",
+    "type": "cactus",
+    "stock": 10,
+    "title": "Beavertail Cactus",
+    "scientific_name": "Opuntia Basilaris",
+    "common_name": " Beavertail Cactus Or Beavertail Prickly Pear.",
+    "description": " The Beavertail Cactus is a smaller prickly pear cactus growing about 60 centimeter tall. A single plant may consist of hundreds of fleshy, flattened pads. The plant is not wslugely available in coastal nurseries but is more commonly available in specialty cactus or desert nurseries.",
+
+    "imageList": [
+      "https://horticulture.co.uk/wp-content/uploads/2022/11/04-65.jpg",
+      "https://www.wilsonbrosgardens.com/cdn-cgi/image/width%3D400%2Cquality%3D85/assets/images/opuntia-basilaris-beavertail-prickly-pear-cactus-3.jpg"
+    ],
+    "price": " 1500",
+    "uses": "Prickly pear cactus is used for type 2 diabetes, high cholesterol, obesity. It is also used to fight viral infections. In foods, the prickly pear juice is used in jellies and candies. It is wslugely grown as an ornamental cactus in indoor in rooms and offices in small pots.",
+    "season": ["evergreen"],
+    "category": ["indoor-plants", "cactus"],
+    "blooming_time": "April-July",
+    "soil_requirement": "Use a suitable cactus mix for growing Euphorbia succulents.  A sandy, loamy potting soil that allows water to drain fast is slugeal for these plants.",
+    "watering_schedule": "Cactus plants will need watering every 7 to 10 days for optimal growth during spring, summer, and autumn months. Increase the interval between watering schedules during the plant’s rest or dormant period during winter (approximately every 4 to 6 weeks).",
+
+    "light_requirement": " full sunlight"
+  },
+  {
+    "slug": "item22",
+    "type": "cactus",
+    "stock": 10,
+    "title": "Candelabra Cactus",
+    "scientific_name": "Euphorbia Lactea",
+    "common_name": " Dragon Bones, False Cactus, Mottled Spurge",
+    "description": "A leafless, succulent shrub with angled stems and short, brown to black spines. The stems are usually dark green marbled with white or pale green",
+
+    "imageList": [
+      "https://promisesupply.ca/cdn/shop/products/image_24cda8c7-4aca-4908-af5c-c366e90e7c57.jpg?v=1660688292&width=1946",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM01eXVI5UhvHihbi3p51UuvXbM66xLQJsLA&usqp=CAU"
+    ],
+    "price": " 3000",
+    "uses": "The stems of this plant were used for firewood and the fruit was eaten by the native inhabitants of the area. Use it as a single specimen, or grow it in containers for its showy, strong silhouette. This cactus can also be mixed with other succulents in rock gardens or raised planters. It is wslugely grown as an ornamental cactus in indoor in rooms and offices in small pots.",
+    "season": ["evergreen"],
+    "category": ["indoor-plants", "cactus"],
+    "blooming_time": "Year-round",
+    "soil_requirement": "A suitable cactus mix for growing Euphorbia succulents. A sandy, loamy potting soil that allows water to drain fast is slugeal for these plants.",
+    "watering_schedule": "Cactus plants will need watering every 7 to 10 days for optimal growth during spring, summer, and autumn months. Increase the interval between watering schedules during the plant’s rest or dormant period during winter (approximately every 4 to 6 weeks).",
+
+    "light_requirement": " full sunlight"
+  },
+  {
+    "slug": "item23",
+    "type": "cactus",
+    "stock": 10,
+    "title": "Easter Lily Cactus",
+    "scientific_name": " Echinopsis Ancistrophora",
+    "common_name": " Easter cactus, Hedgehog Cacti, Sea-Urchin Cactus",
+    "description": "Easter Lily Cactus is a small round, globose cactus from South America dotted with woolly white areoles. In summer large white fragrant blooms of 3-5 open that cover the plant.",
+
+    "imageList": [
+      "https://www.paradisefoundnursery.com/cdn/shop/products/echinopsis-subdenudata-cv-dominos-4-pots-easter-lily-cactus-almost-spineless-539173.jpg?v=1707145215",
+      "https://5.imimg.com/data5/SELLER/Default/2022/10/IL/QA/DJ/18487906/echinopsis-oxygona-500x500.jpg",
+      "https://www.gulab.pk/islamabad/wp-content/uploads/sites/30/2022/01/EASTER-LILY-CACTUS.jpg"
+    ],
+    "price": " 2700",
+    "uses": "Grow in indoor in rooms and offices in small pots. Used in combination with other columnar cacti and succulents in exotic cactus gardens. Cacti are extremely versatile in the xeriscape, in foundations, raised planters, containers, courtyards, or narrow, confined spaces.",
+    "season": ["evergreen"],
+    "category": ["indoor-plants", "cactus"],
+    "blooming_time": "June and August",
+    "soil_requirement": "Cacti require a porous, sandy or pebbly potting soil that provsluges plenty of aeration and excellent drainage. A good cactus potting mixture will also consist of some organic material that makes moisture available to the plant roots when watered but then dries out quickly.",
+    "watering_schedule": "Cactus plants will need watering every 7 to 10 days for optimal growth during spring, summer, and autumn months. Increase the interval between watering schedules during the plant’s rest or dormant period during winter (approximately every 4 to 6 weeks).",
+
+    "light_requirement": " full sunlight"
+  },
+  {
+    "slug": "item24",
+    "type": "cactus",
+    "stock": 10,
+    "title": "Eve’s Needle",
+    "scientific_name": "Austrocylindropuntia Subulata",
+    "common_name": " Eve’s pin, Eve’s Needle Cactus",
+    "description": " Eve’s needle cactus is a branching shrub that grows up to 3 m tall. Plants often grow in patches many metres wsluge. Cacti pads have bumps on the surface called areoles. Spines, bristles, leaves, flowers, fruit, roots and new shoots all grow out of the areoles.",
+
+    "imageList": [
+      "https://www.gulab.pk/islamabad/wp-content/uploads/sites/30/2022/01/Frame-800-800-Gulab-3-10.jpg",
+      "https://media.greg.app/cGxhbnQtZGItcGhvdG9zL2V2ZXNfbmVlZGxlX2NhY3R1cy5qcGc=?auto=webp&width=1000&fit=cover&format=pjpg&height=1000&optimize=medium&precrop=1000:1000,smart"
+    ],
+    "price": " 2860",
+    "uses": "This drought-tolerant plant is a good choice for seassluge gardens, rock gardens, desert gardens, and xeriscaping in areas having a consistently warm climate. Otherwise, it is great for container gardening or as a houseplant in any climate.",
+    "season": ["evergreen"],
+    "category": ["indoor-plants", "cactus"],
+    "blooming_time": "Year-round",
+    "soil_requirement": " It requires well draining soil.",
+    "watering_schedule": "Eve’s Needle Cactus needs 0.8 cups of water every 12 days when it doesn’t get direct sunlight.",
+
+    "light_requirement": " full sunlight"
+  },
+  {
+    "slug": "item25",
+    "type": "cactus",
+    "stock": 10,
+    "title": "Fishhook Barrel Cactus",
+    "scientific_name": "Euphorbia Resinifera",
+    "common_name": "Arizona Barrel Cactus, Candy Barrel Cactus, Southwestern Barrel Cactus",
+    "description": "The fishhook barrel cactus can be slugentified by its thick (2 foot diameter), barrel shaped body and long hooked spines. The yellow/red flowers and yellow fruit always grow at the top of the plant. Fishhook barrel cactus grow along desert washes and gravelly bajadas.",
+
+    "imageList": [
+      "https://sacredplantco.com/cdn/shop/articles/206bd5_076738e3390f47c68997b23c6c80a8b2_mv2_d_4896_3264_s_4_2_1.jpg?v=1667313877",
+      "https://cdn.shopify.com/s/files/1/0605/9137/4512/files/cactuslife_thumb_9783b985-88aa-4a25-a55d-ef46f44e271a_480x480.jpg?v=1679063608"
+    ],
+    "price": " 3000",
+    "uses": "The people of the Sonoran Desert use the fruit for candy and jelly. The Seri and O’odham eat the flowers and use the fruit, which is sour, as emergency food. Tradition says that the barrel cactus is a source of water for people lost without water in the desert. It is wslugely grown as an ornamental cactus in indoor in rooms and offices in small pots.",
+    "season": ["evergreen"],
+    "category": ["indoor-plants", "cactus"],
+    "blooming_time": "Almost Round the year",
+    "soil_requirement": "Nearly any type of well-drained, sandy or gravelly soil.",
+    "watering_schedule": "Cactus plants will need watering every 7 to 10 days for optimal growth during spring, summer, and autumn months. Increase the interval between watering schedules during the plant’s rest or dormant period during winter (approximately every 4 to 6 weeks).",
+
+    "light_requirement": " full sunlight"
+  },
+  {
+    "slug": "item26",
+    "type": "cactus",
+    "stock": 10,
+    "title": "Golden Barrel Cactus",
+    "scientific_name": "Euphorbia Grusonii",
+    "common_name": "Golden Ball Or Mother-In-Law’s Cushion",
+    "description": "A common desert ornamental, noted for its striking golden spines; the plant is an endangered species in the wild. Golden barrel cactus can reach about (10 feet) high and about 60 cm in diameter, and the stems generally have strong stiff spines and prominent ribs.",
+
+    "imageList": [
+      "https://www.thespruce.com/thmb/1MG_lJrPITD67Tf4PUSEq0nkq38=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/grow-echinocactus-indoors-1902973-05-2801eb30019f4a33bc70acf2c7ca02eb.jpg",
+      "https://www.greensouq.ae/wp-content/uploads/2022/01/IMG_1481-1024x768.jpg"
+    ],
+    "price": " 1870",
+    "uses": "Grow in indoor in rooms and offices in small pots. Used in combination with other columnar cacti and succulents in exotic cactus gardens. golden barrel cacti are extremely versatile in the xeriscape, in foundations, raised planters, containers, courtyards, or narrow, confined spaces.",
+    "season": ["evergreen"],
+    "category": ["indoor-plants", "cactus"],
+    "blooming_time": "June and August",
+    "soil_requirement": "Cacti require a porous, sandy or pebbly potting soil that provsluges plenty of aeration and excellent drainage. A good cactus potting mixture will also consist of some organic material that makes moisture available to the plant roots when watered but then dries out quickly.",
+    "watering_schedule": "Cactus plants will need watering every 7 to 10 days for optimal growth during spring, summer, and autumn months. Increase the interval between watering schedules during the plant’s rest or dormant period during winter (approximately every 4 to 6 weeks).",
+
+    "light_requirement": " full sunlight"
+  },
+  {
+    "slug": "item27",
+    "type": "cactus",
+    "stock": 10,
+    "title": "Mammillaria  Cactus",
+    "scientific_name": "Mammillaria Mammilllaris",
+    "common_name": "Woolly Nipple Cactus",
+    "description": "The spines of the cacti are either straight or hooked. Many small flowers, in a variety of colours, are borne between the tubercles in rings around the plant below the tip.",
+    "imageList": [
+      "https://www.gardenia.net/wp-content/uploads/2023/04/9GrSLwMO7fIYZsnWcFse4KHSZK7MMDE7X7r95OHn.webp",
+      "https://static.wixstatic.com/media/c1c600_1b483a599678466cab76dbfa504ba341~mv2.jpg/v1/fill/w_980,h_1307,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/c1c600_1b483a599678466cab76dbfa504ba341~mv2.jpg"
+    ],
+    "price": " 2360",
+    "uses": " A mini cactus garden is a good way to display. Mammillaria are popular plants and common in many nursery centers. It is wslugely grown as an ornamental cactus in indoor in rooms and offices in small pots.",
+    "season": ["evergreen"],
+    "category": ["indoor-plants", "cactus"],
+    "blooming_time": "April-July",
+    "soil_requirement": "It is suggested you plant your cacti in porous, sandy, and well-draining soil that is rich in organic matter",
+    "watering_schedule": "Cactus plants will need watering every 7 to 10 days for optimal growth during spring, summer, and autumn months. Increase the interval between watering schedules during the plant’s rest or dormant period during winter (approximately every 4 to 6 weeks).",
+
+    "light_requirement": " full sunlight"
+  },
+  {
+    "slug": "item28",
+    "type": "cactus",
+    "title": "Old Man Cactus",
+    "stock": 10,
+    "scientific_name": "Cephalocereus Senilis",
+    "common_name": "Old Man Cactus, hairy cactus, Bearded cactus",
+    "description": "The plant does have fluffy white tufts of hair over the surface of the cactus body. old man cactus, columnar species of cactus. Because of the unkempt wisps of whitish hair along its stem, it is a popular potted plant.",
+    "imageList": [
+      "https://gardenerspath.com/wp-content/uploads/2022/08/How-to-Grow-Old-Man-Cactus-Feature.jpg",
+      "https://horticultureunlimited.com/wp-content/uploads/2016/01/Cephalocereus-senilis-old-man-cactus-410x400.jpg",
+      "https://gardenerspath.com/wp-content/uploads/2022/08/Potted-Old-Man-Cactus.jpg"
+    ],
+    "price": " 1980",
+    "uses": "Grow in indoor in rooms and offices in small pots. Use it as an accent plant or in masses along with other cacti in rock gardens and raised planters. Use the old man cactus as a foundation plant against a white or colored wall.",
+    "season": ["evergreen"],
+    "category": ["indoor-plants", "cactus"],
+    "blooming_time": "April-May",
+    "soil_requirement": "Use a cactus mix or blend of sand, perlite, and topsoil for indoor cactus growing. Also, use an unglazed pot for growing old man cactus. This will allow the pot to evaporate any excess moisture",
+    "watering_schedule": "As a rule of thumb, cacti only need to be watered approximately once a week. When watering, drench the soil completely. Overwatering can result in root rot",
+
+    "light_requirement": " full sunlight"
+  },
+  {
+    "slug": "item29",
+    "type": "cactus",
+    "title": "Organ Pipe Cactus",
+    "stock": 10,
+    "scientific_name": "Stenocereus Thurberi",
+    "common_name": "Organ pipe cactus",
+    "description": "Organ-pipe cactus typically grows 5–8 m tall and features several to many tall columnar arms arising candelabra-like from the base or not far above it. The stems range from green to gray in colour and are densely covered with brown spines.",
+
+    "imageList": [
+      "https://www.gulab.pk/islamabad/wp-content/uploads/sites/30/2022/01/3.jpg",
+      "https://www.gulab.pk/islamabad/wp-content/uploads/sites/30/2022/01/2-1.jpg",
+      "https://www.gulab.pk/islamabad/wp-content/uploads/sites/30/2022/01/1-1.jpg"
+    ],
+    "price": " 2490",
+    "uses": "Use this cactus as a showy display in cactus gardens, or in attractive containers or raised beds with other cactus and succulent plants. It can also be used as a xeriscape planting in combination with other desert plantings or around pools or ponds as an accent, also used as an accent in containers, a foundation plant, or with other cactus for its structural beauty.",
+    "season": ["evergreen"],
+    "category": ["indoor-plants", "cactus"],
+    "blooming_time": "April-July",
+    "soil_requirement": "Organ pipe cactus grows well in well-drained, gritty soils. Use either a cactus mix or make your own with one part potting soil, one part sand and one part perlite",
+    "watering_schedule": "Cactus plants will need watering every 7 to 10 days for optimal growth during spring, summer, and autumn months. Increase the interval between watering schedules during the plant’s rest or dormant period during winter (approximately every 4 to 6 weeks).",
+
+    "light_requirement": " full sunlight"
+  },
+  {
+    "slug": "item30",
+    "type": "cactus",
+    "stock": 10,
+    "title": "Pencil Cactus",
+    "scientific_name": "Euphorbia tirucalli",
+    "common_name": "Indian tree spurge, Milk bush, pencil tree",
+    "description": "Pencil cactus is a succulent shrub with thick branches that split into long, narrow stems about as thick as a pencil. Small yellow flowers grow at the end of the stems. The stems are slim and have tiny teeth but no major apparent foliage.",
+    "imageList": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaBJDPi-Ql7uSUEugh-2qxKZpihldlJWfMUrMdFIIOe02-PM6PLHd24tPZCEB1PFo0PLU&usqp=CAU",
+      "https://cdn.shopify.com/s/files/1/0013/3529/6118/files/Nursery-Pot-10_Pencil-Cactus-10.jpg?v=1540216932"
+    ],
+    "price": " 2490",
+    "uses": "It is used in traditional medicine by many cultures t cure cancer, swelling, tumors, and warts.",
+    "season": ["spring"],
+    "category": ["cactus"],
+    "blooming_time": "April-July",
+    "soil_requirement": "It will grow best in sandy or loamy soil with pH (6.1-7.8).",
+    "watering_schedule": "Water the plant once or twice a week.",
+
+    "light_requirement": " full sunlight"
+  },
+  {
+    "slug": "item31",
+    "type": "cactus",
+    "stock": 10,
+    "title": "Ruby Ball Cactus",
+    "scientific_name": "Gymnocalycium Mihanovichii",
+    "common_name": "Moon Cactus",
+    "description": "The ruby ball cactus is a bright red, ball-shaped cactus that grows on a green base. A mutation of a normal cactus, it totally lacks the green pigmentation that allows other plants to absorb solar energy. The only way it can survive is to be grafted on a green cactus that absorbs energy for it.",
+
+    "imageList": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkfxVks2MtmNXikJ57D5JJS2Oi0U2G8asR1w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-aMbCzpEKpCHowmLsjPioRe6rj_E_yGVenw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-GPJ2hydmvqJmR9Ys7qr-M9amu57R69t7ZQ&usqp=CAU"
+    ],
+    "price": " 2460",
+    "uses": " Can be grown indoor in pots as well as in the mini cactus garden is a good way to display. Cactuses are known for their nutrients as well as their medicinal value. Both cactus pads and cactus fruit can help fight infections.",
+    "season": ["evergreen"],
+    "category": ["cactus"],
+    "blooming_time": "Year-round",
+    "soil_requirement": "It is suggested you plant your cacti in porous, sandy, and well-draining soil that is rich in organic matter.",
+    "watering_schedule": "Cactus plants will need watering every 7 to 10 days for optimal growth during spring, summer, and autumn months. Increase the interval between watering schedules during the plant’s rest or dormant period during winter (approximately every 4 to 6 weeks).",
+
+    "light_requirement": " full sunlight"
+  },
+  {
+    "slug": "item32",
+    "type": "cactus",
+    "stock": 10,
+    "title": "Saguaro Cactus",
+    "scientific_name": "Carnegiea Gigantea",
+    "common_name": "Moon Cactus",
+    "description": "The saguaro cactus is one of the defining plants of the Sonoran Desert. These plants are large, tree-like columnar cacti that develop branches (or arms) as they age, although some never grow arms.",
+
+    "price": " 2560",
+    "imageList": [
+      "https://i.pinimg.com/736x/7b/98/d4/7b98d465ef9db67b96c89ac9e4c9352a.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMfnSsv188b-KxnaOaOQgDPMgO3hWKozyJhGR9XOr50Kb86RrjzDtSVur5A5Yp2EQkt54&usqp=CAU"
+    ],
+    "uses": "Grow in indoor in rooms and offices in small pots. Used in fencing, splints for broken bones, and mixed with ocotillo, grass, and mud to build houses. They were also used in games, for instruments, animal traps, and to make arrows. Perhaps most importantly, they were shaped into tools to pick the Saguaro fruit.",
+    "season": ["evergreen"],
+    "category": ["cactus", "indoor-plants"],
+    "blooming_time": "April-May",
+    "soil_requirement": "It require potting soil with good drainage. Mixing peat-based soil with sand can help prevent the roots of your saguaro cactus from becoming waterlogged.",
+    "watering_schedule": "Requires a deep watering once every 2-4 weeks. requires about 10 inches of water annually.",
+
+    "light_requirement": " full sunlight"
+  },
+  {
+    "slug": "item33",
+    "type": "cactus",
+    "stock": 10,
+    "title": "Silver Torch Cactus",
+    "scientific_name": "Cleistocactus Strausii",
+    "common_name": "Fuzzy White Spine, Silver Torch, Wooly Torch",
+    "description": "Silver Torch Cacti feature green stems that have a silvery-grey appearance given by the short, whitish spines that completely cover the stem. The main stem of a Silver Torch Cactus often branches at the base, featuring several upright-growing stems attached to the parent stem just above the surface of the soil.",
+
+    "imageList": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwoISfHcbgsRnCd6edd-jgFypiVs8Wt3BVYqT_T88tlFlGNm37IxRmQU4BElZJrC9RcaU&usqp=CAU",
+      "https://static.wixstatic.com/media/6c9b82_cc9213d5975a4a0a907bc8eb51c8ee03~mv2.jpg/v1/fill/w_774,h_1285,al_c,q_85,enc_auto/6c9b82_cc9213d5975a4a0a907bc8eb51c8ee03~mv2.jpg"
+    ],
+    "price": " 2360",
+    "uses": " Grow in indoor in rooms and offices in small pots. Used in combination with other columnar cacti and succulents in exotic cactus gardens. Plant the silver torch in foundations, raised planters, containers, courtyards, or narrow, confined spaces.",
+    "season": ["evergreen"],
+    "category": ["cactus", "indoor-plants"],
+    "blooming_time": "June and August",
+    "soil_requirement": "Cacti require a porous, sandy or pebbly potting soil that provsluges plenty of aeration and excellent drainage. A good cactus potting mixture will also consist of some organic material that makes moisture available to the plant roots when watered but then dries out quickly.",
+    "watering_schedule": "Cactus plants will need watering every 7 to 10 days for optimal growth during spring, summer, and autumn months. Increase the interval between watering schedules during the plant’s rest or dormant period during winter (approximately every 4 to 6 weeks).",
+
+    "light_requirement": " full sunlight"
+  },
+  {
+    "slug": "item35",
+    "type": "cactus",
+    "stock": 10,
+    "title": "Totem Pole Cactus",
+    "scientific_name": "Pachycereus Schottii",
+    "common_name": "Totem Pole Cactus",
+    "description": " Totem Pole Cactus is a slow-growing columnar cactus that reaches up to 12ft tall when fully grown. A short trunk at the base presents branched, tall stems that are smooth-skinned and light to medium green in color.",
+
+    "imageList": [
+      "https://www.treeland.com/wp-content/uploads/2018/10/20220913_112010-rotated.jpg",
+      "https://i.etsystatic.com/20473734/r/il/1d941c/3456095903/il_570xN.3456095903_17ir.jpg"
+    ],
+    "price": " 2460",
+    "uses": "Use this cactus as a showy display in cactus gardens, or in attractive containers or raised beds with other cactus and succulent plants. It is wslugely grown as an ornamental cactus in indoor in rooms and offices in small pots.",
+    "season": ["evergreen"],
+    "category": ["cactus", "indoor-plants"],
+    "blooming_time": "April-July",
+    "soil_requirement": "Totem Pole cacti grow in sandy and pebbly soil. For optimal growth, it is suggested you plant your cacti in porous, sandy, and well-draining soil that is rich in organic matter.",
+    "watering_schedule": "Cactus plants will need watering every 7 to 10 days for optimal growth during spring, summer, and autumn months. Increase the interval between watering schedules during the plant’s rest or dormant period during winter (approximately every 4 to 6 weeks).",
+
+    "light_requirement": " full sunlight"
+  },
+  {
+    "slug": "item36",
+    "type": "climbers",
+    "title": "Ant Plant",
+    "stock": 10,
+    "scientific_name": "Dischslugia oiantha",
+    "common_name": " Dischslugia, Button Bail, Ant Plant.",
+    "description": "Dischslugia plants are native to tropical Asia and many species are grown as houseplants because of their ease of care, attractive leaves, and hanging growth habit. Its leaves are fleshy, oval and are succulent. Clusters of tiny white flowers located at the nodes of stems are showy.",
+
+    "imageList": [
+      "https://media.greg.app/Y2FyZS1wbGFudC1wcm9maWxlLzk5ODMxLzE3NDI0N0Y1LUYxN0EtNDdCQS1CMTlDLTRFMDM5NEYwQzkwQS5wbmc=?format=pjpeg&optimize=high&auto=webp&width=450",
+      "https://preview.redd.it/tn0g44kuv4651.jpg?width=1080&crop=smart&auto=webp&s=f2efdf5e188205f1334c9e50482df387c663d260"
+    ],
+    "price": " 2860",
+    "uses": " It is a great houseplant and is very easy to care for. Perform well in hanging baskets or upwards on wooden trellises. It has unusual pouch-like modified leaves and tiny red flowers. Its leaves are attractive that may be puffy or fleshy. This plant can be cut and used to adorn wreaths and Christmas tree.",
+    "season": ["autumn", "spring", "winter"],
+    "category": ["climbers"],
+    "blooming_time": "September-march",
+    "soil_requirement": "Use shredded bark or coconut husk as a substrate for preparing potting mix for this plant. These plants are grown best in a moist and porous growing medium. The most common material used is coconut husk chunks.",
+    "watering_schedule": "Allow the soil to dry out between waterings. Water the plant regularly 2-3 times a month. Too much water will cause the delicate roots of this plant to rot. Water only about every two or three days in warmer seasons.",
+
+    "light_requirement": " full sunlight"
+  },
+  {
+    "slug": "item37",
+    "type": "climbers",
+    "stock": 10,
+    "title": "Bouganvillea Vine",
+    "scientific_name": "Bougainvillea Spectabilis",
+    "common_name": " Bouganvillea Great, Bougainville Paper Flower.",
+    "description": "Bougainvillea is an evergreen flowering vine distinguished by its beautiful, colored bracts and sharp spines.  Single or double bracts bloom in shades of white, pink, peach, orange and rose, with some bi-colored varieties as well.",
+
+    "price": " 1800",
+    "imageList": [
+      "https://i.pinimg.com/1200x/5c/64/7c/5c647c16f4bdf5d6ff782512d0a0b0ab.jpg",
+      "https://i.pinimg.com/originals/fa/78/b9/fa78b9a7072a7189ef24f0118413c1c5.jpg"
+    ],
+    "uses": " The extract and decoction of this plant have been used as fertility control among the tribal people in many countries. It also is believed to have anticancer, antihepatotoxic, anti-inflammatory, antihyperlipslugemic, antimicrobial, antioxslugant, and antiulcer properties. Bougainvillea spectabilis contains pinitol, which has an insulin-like effect and has the potential for development as a treatment for diabetes.",
+    "season": ["evergreen"],
+    "category": ["climbers"],
+    "blooming_time": "Year-round",
+    "soil_requirement": " The soil should be clay-loam or sandy with good drainage.",
+    "watering_schedule": "Allow the surface of the soil around your bougainvillea vine to dry out between watering. Water aiming to thoroughly soak the soil around the roots. The watering interval will vary depending on the temperature and amount of wind. Avoslug light watering that only moistens the surface of the soil.",
+
+    "light_requirement": " full sunlight"
+  },
+  {
+    "slug": "item38",
+    "type": "climbers",
+    "stock": 10,
+    "title": "Butterfly Pea",
+    "scientific_name": "Ciloteria ternatae",
+    "common_name": "Asian pigeonwings, Blue Pea, Cordofan Pea, Darwin pea",
+    "description": "Butterfly pea is a perennial herbaceous plant. It is a pea-shaped flower with a tubular calyx consisting of five sepals fused about two-thirds of their length. It is a large wildflower with one to three showy purple flowers up to two inches long.",
+
+    "imageList": [
+      "https://m.media-amazon.com/images/I/61JAJCNljTS._SL1440_.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFVp9kD43WVGJOpMOBhewBpMQmeOooTmUqHSp9Dsqzg6yXkemQEU9gjxjpj9CBbEH6x6s&usqp=CAU"
+    ],
+    "price": " 600",
+    "uses": "It is used in modern medicine; Agriculture is a source of natural food colorants and a supplier of antioxslugants. It is best used as a climber in the house and garden.",
+    "season": ["summer", "winter"],
+    "category": ["climbers"],
+    "blooming_time": "November-January",
+    "soil_requirement": "It grows in sandy, loamy, and tough clay soils with pH (6.0-7.5)",
+    "watering_schedule": "During summer, water daily, while in the winter season, water once in two days or when the soil gets dry.",
+
+    "light_requirement": " full sunlight"
+  },
+  {
+    "slug": "item39",
+    "type": "climbers",
+    "stock": 10,
+    "title": "Chocolate Vine",
+    "scientific_name": " Akebia Quinata",
+    "common_name": "Chocolate Vine",
+    "description": "It is seen as a medium to large shrub with a fairly open habit. Fine narrow needle like foliage is arranged along the branching stems. In late Winter to Spring star shape flowers emerge what can be colored white, pink or purple depending on the variety. The flowers may last well into Summer.",
+
+    "imageList": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEQ1hDMILVPdNevBmQB5QiJGLMCOanxvrXdAcrDh5__DZr_oS-mSODoELXeq5oF-nl4XE&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdgsV3MglCUjLVNsSCZCspHl6m-y4gXKEYnCwD-muh0XNCfq6oLRRRvFRN8Y5XBgkWdOI&usqp=CAU"
+    ],
+    "featuredProducts": true,
+    "price": " 900",
+    "uses": " Young shoots are used in salads or for salt pickling. The bitter skin of the fruit is fried and eaten and the leaves used as a tea substitute. The empty pod is stuffed and deep fried. The fruit is also used to make wine.",
+    "season": ["summer"],
+    "category": ["climbers"],
+    "blooming_time": "May-June",
+    "soil_requirement": "Plant the chocolate vine in well-drained, sandy loam soil for best results, although the plant will thrive in most soils without amendments.",
+    "watering_schedule": "Water frequently when the plant is young, every 3 or 4 days and weekly thereafter",
+
+    "light_requirement": " full sunlight"
+  },
+  {
+    "slug": "item40",
+    "type": "climbers",
+    "stock": 10,
+    "title": "Cross Vine",
+    "scientific_name": "Bignonia Capreolata",
+    "common_name": "Trumpet Flower, Crossvine",
+    "description": " It is a climbing, woody vine reaching 30-50 ft. long with showy, orange-red, trumpet-shaped flowers of 2 inches and 1 1/2 inches across which hang in clusters of two to five. They are sometimes seen high on a tree, as the vine climbs by means of tendrils. It is saslug that the plant received its name “crossvine” from the design of the cut cross -section of the stems.",
+    "price": " 900",
+    "imageList": [
+      "https://gardenerspath.com/wp-content/uploads/2020/02/Trumpet-Shaped-Crossvine-Flowers-Close-Up.jpg",
+      "https://www.savannahnow.com/gcdn/authoring/2015/04/10/NSMN/ghows-GA-16f5d135-767d-4cf2-a8e1-51551beac994-b170841a.jpeg"
+    ],
+    "uses": " They used the bark, leaves and roots to treat ailments including diphtheria, edema and headaches.  ",
+    "season": ["summer"],
+    "category": ["climbers"],
+    "blooming_time": "Spring",
+    "soil_requirement": "It thrives in a variety of soils and generally prefers moist, well-drained soil that is near neutral pH (6.8 to 7.2).",
+    "watering_schedule": "Require virtually no water, although they should be watered during prolonged dry spells or if the soil dries out completely in the top 3 inches, provsluging roughly 1 inch of water at each watering.",
+
+    "light_requirement": " full sunlight"
+  },
+  {
+    "slug": "item41",
+    "type": "climbers",
+    "stock": 10,
+    "title": "Cat’s Claw",
+    "scientific_name": " Macfadyena unguis-cati",
+    "common_name": "Cat Claw,  Yellow Trumpet Vine, Funnel Creeper",
+    "description": "Large woody vine that climbs and creeps aggressively. Flowers are yellow, bell-shaped. Leaves have 2 leaflets. Fruit is elongated, glossy green when young, dark brown as it matures.",
+    "imageList": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUJxXsDWFbu7GzRs5tZBzzSD3bvXxzK5S-jA&usqp=CAU"
+    ],
+    "price": " 1500",
+    "featuredProducts": true,
+    "uses": "Cat’s claw plant is used in traditional medicine for a wsluge range of purposes ranging from treating acne to arthritis.",
+    "season": ["evergreen"],
+    "category": ["climbers"],
+    "blooming_time": "Year-round",
+    "soil_requirement": "The soil should prefer moist and well-drained soil, but they’ll do well in virtually anything as long as it’s not soggy.",
+    "watering_schedule": "Allow the surface of the soil around your bougainvillea vine to dry out between watering. Water aiming to thoroughly soak the soil around the roots. The watering interval will vary depending on the temperature and amount of wind. Avoslug light watering that only moistens the surface of the soil.",
+
+    "light_requirement": " full sunlight"
+  },
+  {
+    "slug": "item42",
+    "type": "climbers",
+    "stock": 10,
+    "title": "Garlic Vine",
+    "scientific_name": "Mansoa Alliacea",
+    "common_name": "Garlic Shrub, Garlic Rope, Amazonian Garlic Bush",
+    "description": "This woody climber is not related to the common edible garlic at all! It produces spectacular clusters of purplish, funnel-shaped blooms that emit a garlic smell too.",
+
+    "imageList": [
+      "https://i.ytimg.com/vi/l4h4t8pyYWc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDkKuYj2FfZeAL6CwQA2TzispAwDQ",
+      "https://i.ytimg.com/vi/l4h4t8pyYWc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDkKuYj2FfZeAL6CwQA2TzispAwDQ"
+    ],
+    "price": " 1800",
+    "uses": "Used as an analgesic, anti-inflammatory.",
+    "season": ["winter"],
+    "category": ["climbers"],
+    "blooming_time": "November-March",
+    "soil_requirement": "It grow on well-drained soils with moderate watering.",
+    "watering_schedule": "Watering should be regular and thorough. During the hot dry season, it can take twice a day watering.",
+
+    "light_requirement": " full sunlight"
+  },
+  {
+    "slug": "item43",
+    "type": "climbers",
+    "stock": 10,
+    "title": "Golden Shower Vine ",
+    "scientific_name": " Pyrostegia Venusta",
+    "common_name": "Golden shower, Purging cassia, Indian laburnum, or pudding-pipe tree, Flame Vine",
+    "description": "This sun-loving, evergreen vine is also known as the flame flower or the golden shower. It grows quickly, spreading with tendrils; a single stem can be 80 feet (24 meters) long!",
+    "imageList": [
+      "https://lh5.googleusercontent.com/-UM6ccRK6GG0/UA-Xck-XXFI/AAAAAAAACXc/6L-7IpMN2hQ/s400/Vine%2520Quisqualis%2520%2520Double.JPG",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNCfXz3DKcZBz2enUJjRKPKZqVlawCNo9t6Z_iMSmMJEObLYfCG4cnaO8RJvX539m2MNk&usqp=CAU"
+    ],
+    "price": " 760",
+    "uses": "for treatment of infections of respiratory system like colds, flu and bronchitis",
+    "season": ["evergreen"],
+    "category": ["climbers"],
+    "blooming_time": "Nov-March",
+    "soil_requirement": "It grow on well-drained sandy-loam soils.",
+    "watering_schedule": "Plants with thin leaves need daily watering and ones with thick leaves need watering 3-4 times a week.",
+
+    "light_requirement": " full sunlight"
+  },
+  {
+    "slug": "item44",
+    "type": "climbers",
+    "stock": 10,
+    "title": "Golden Trumpet Vine",
+    "scientific_name": "Allamanda Cathartica",
+    "common_name": "Golden Trumpet, Common Trumpet Vine and Yellow Allamanda",
+    "description": "Golden trumpet or common allamanda is a flowering plant commonly seen as a landscape ornamental in tropical locations. These beautiful plants with large, fragrant, deep golden yellow flowers.",
+
+    "imageList": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6p_dxHzft_jG-VS7WIeW7_O_--7cvi1LaZcq6bPuUT8tMsQ8P6J6HL_2JjvXx3N90QVM&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkmsglOVD5NiDZS970wqNkBIGL8rMfgdvSRJJoSdOUqPePRWOVyGpOwG2myLh5W9JUdAM&usqp=CAU"
+    ],
+    "price": " 960",
+    "uses": "The leaves and flowers are used to make medicines. Despite serious safety concerns, people use angel’s trumpet as a recreational drug to induce hallucinations and euphoria. They also use it to treat asthma.",
+    "season": ["summer"],
+    "category": ["climbers"],
+    "blooming_time": "July-August",
+    "soil_requirement": "Use a potting soil with equal parts peat, compost, and sand.",
+    "watering_schedule": "Water thoroughly, then allow the top 2 inches of soil to dry out between waterings.",
+
+    "light_requirement": " full sunlight"
+  },
+  {
+    "slug": "item45",
+    "type": "climbers",
+    "stock": 10,
+    "title": "Honey Suckle",
+    "scientific_name": "Lonicera Japonica",
+    "common_name": "Honeysuckle or Woodbine",
+    "description": "Honeysuckle plants can be evergreen or decsluguous, with simple leaves arranged oppositely along the stems. The winter leaf buds have distinctive scales. Most species have two-lipped fragrant flowers with a sweet nectar. The tubular flowers are commonly borne in pairs.",
+
+    "imageList": [
+      "https://img.hunkercdn.com/-/media-storage/contentlab-data/2/21/279980fc7f6f4b49a8f3c9b981f2c909.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8HpkdoCTLVQvvcxxT_lEgiLhrFY_cxv8yv56EyWRl9eUoJrktKsSI0YA2sM6quJkKg5s&usqp=CAU"
+    ],
+    "price": " 900",
+    "uses": " Honeysuckle is also used for urinary disorders, headache, diabetes, rheumatoslug arthritis, and cancer.",
+    "season": ["evergreen"],
+    "category": ["climbers"],
+    "blooming_time": "Year-round",
+    "soil_requirement": "Prefer a consistently moist soil, however will tolerate dry periods when established.",
+    "watering_schedule": "Honeysuckle vines like their soil to remain moist, so check your plant every few days. Plants in containers need more water than those in the ground.",
+
+    "light_requirement": "Although honeysuckles don’t mind some shade, they will flower more profusely in a sunny location."
+  },
+  {
+    "slug": "item46",
+    "type": "climbers",
+    "stock": 10,
+    "title": "Ivy Leaf",
+    "scientific_name": "Hedera Helix",
+    "common_name": "Common ivy, English ivy, European ivy, or just ivy",
+    "description": "ivy is evergreen woody vine (rarely shrubs) which have several species cultivated as climbing ornamentals. The stems bear simple leaves which have Dark green and glossy with pale veins. Leaves of juvenile forms have 3-5 lobes and a pale underssluge. As the stems reach the top of their support, they become horizontal or hang. It sometimes develops unlobed (entire) leaves and small greenish flowers.",
+
+    "imageList": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSECto7WA3t-u4h9NKGtTla-0UysOBfu8WPu41xwBa2lAyRL5jqzey2EEDQ-x3CKNKW9gc&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqDCW3FhBtG_g2I1bpQltN6BG-yTE-5uS6I7D1-PQOQL_fZZL6QbNvmUaQID5J1y9JYno&usqp=CAU"
+    ],
+    "price": " 550",
+    "uses": "Weed suppression in plantings, beautifying unsightly facades and provsluging additional green by growing on tree trunks. However, ivy can be problematic.",
+    "season": ["evergreen"],
+    "category": ["climbers"],
+    "blooming_time": "Year-round",
+    "soil_requirement": "Grow this evergreen vine in well-drained soil. Although it will grow in poor soils and soils of a wsluge range of pH levels, it does best in average loams.",
+    "watering_schedule": "Just as humans get thirsty for water, ivy (Hedera spp.) requires regular watering to thrive.",
+
+    "light_requirement": "Grow in variable light conditions but prefers shade."
+  },
+  {
+    "slug": "item47",
+    "type": "climbers",
+    "title": "Jasmine Vine",
+    "stock": 10,
+    "scientific_name": "Jasminum Sambac",
+    "common_name": "Honeysuckle or Woodbine",
+    "description": "Jasmine vine is a lovely vine to grow in warm and mild climates. It has climbing branches without tendrils. The white, yellow, or rarely pink flowers which have very sweet fragrance. The leaves are green and usually are composed of two or more leaflets, although some species have simple leaves.",
+
+    "imageList": [
+      "https://m.media-amazon.com/images/I/7172efRiRtL._AC_UF1000,1000_QL80_.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI6Y36Y_gAAAYYImo3ZiA7HPtRgx8fuY9_eeMQo0sxIs7N9mtKDte3EsRHaEQCQwSQeVw&usqp=CAU"
+    ],
+    "price": " 550",
+    "uses": " The flower is used to make medicine. Jasmine has been used for liver disease (hepatitis), liver pain due to cirrhosis, and abdominal pain due to severe diarrhea.",
+    "season": ["evergreen"],
+    "category": ["climbers"],
+    "blooming_time": "June-October",
+    "soil_requirement": "Needs well-drained but moist, moderately fertile sandy loamy soil.",
+    "watering_schedule": "Jasmine flowers that are in-ground should be watered once a week. If it is unusually dry or hot, increase the frequency, but let the soil dry out in between. If your jasmine is in a container, it will likely require water multiple times each week, especially in the hotter months.",
+
+    "light_requirement": "try to keep the temperature between 20 to 30 degree celsius"
+  },
+  {
+    "slug": "item48",
+    "type": "climbers",
+    "stock": 10,
+    "title": "Passiflora Scarlet",
+    "scientific_name": " Passiflora coccinea",
+    "common_name": " Red Passion Flower, Red Granadilla, Scarlet Passion Flower",
+    "description": " It commonly called red passion flower or red granadilla, is a tropical, tendril-climbing, evergreen vine from South America that typically grows to 10-12′ and to 3-5′ wsluge and produces extremely showy scarlet red to deep red passion flowers (each to 3-4” wsluge)",
+
+    "price": " 920",
+    "imageList": [
+      "https://www.emeraldgoddessgardens.com/shop/images/prod_135_2.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn7VjmQPUcpcX94Y7wOJxjMyt-KI-gcT0g3wDiuZzCKtyovaU5xPs67DIqjYVx5e9k1rE&usqp=CAU"
+    ],
+    "uses": "Passion flower is taken by mouth for sleep problems , anxiety, adjustment disorder, indigestion, pain.",
+    "season": ["evergreen"],
+    "category": ["climbers"],
+    "blooming_time": "June-October",
+    "soil_requirement": "Passion flower likes moderately fertile, well-drained but reliably moist soils. It will thrive in any soil type and is not fussy about acslugity or alkalinity.",
+    "watering_schedule": "Water freely when in growth and keep just moist in winter.",
+
+    "light_requirement": " Full sun or dappled shade is best."
+  },
+  {
+    "slug": "item49",
+    "type": "climbers",
+    "stock": 10,
+    "title": "Peruvian Grape Ivy",
+    "scientific_name": "Cissus rotund folia",
+    "common_name": "Wax ivy, Arabian wax leaf, succulent grape",
+    "description": "It is a climbing plant with round, waxy, and leathery leaves. It climbs up to the height of 6-25 feet height. It has green stems. It can quickly grow indoors with the proper care.",
+
+    "price": " 550",
+    "imageList": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY9BaT7GoAROmHDF8QqkzJbvFdpjl5siG9bT0U0ZRpN67qiHjHyrn-N5O_V62vbOfhfNk&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtXTAk1GCEf-GbdJ78nVTXrA1IY7Ge4vnekLYeFuZpRgpIkCNoIEvgv3RhL6hJ87aLukk&usqp=CAU"
+    ],
+    "uses": "Climb as a living wall, room divsluger, or bold upright accent. It is anti-inflammatory and purifies the air.",
+    "season": ["evergreen"],
+    "category": ["climbers"],
+    "blooming_time": "Spring-summer",
+    "soil_requirement": "It prefers slightly acslugic, neutral, and slightly alkaline soil with pH (7.4-7.8).",
+    "watering_schedule": "Water the plant regularly during its growing season. Maximum to keep the soil moist, but wait for the soil to get dry during the watering period.",
+
+    "light_requirement": "It prefers indirect light; direct sun is not required."
+  },
+  {
+    "slug": "item51",
+    "stock": 10,
+    "type": "climbers",
+    "title": "Rose Vine",
+    "scientific_name": "Rosa banksiae",
+    "common_name": "Gulab ki bail, Rose Vine",
+    "description": " Rose vine  is a Semi-evergreen vigorous climbing plant. The leaves are alternate and feather-formed, usually with oval leaflets that are sharply toothed. It may be trained to a pergola, arbor, fence or wall where it will climb and cover to 15-20′ or more.",
+
+    "price": " 660",
+    "imageList": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzpLl3lGVlTjBJGL5rLEC2Srf_Un7uzLSxj595OwbRm9fIeSpYuub-5Zog_uQqwqDZ930&usqp=CAU",
+      "https://rukminim2.flixcart.com/image/850/1000/xif0q/plant-sapling/e/z/g/perennial-no-yes-rh0-1-1-plastic-bag-the-green-dotcom-original-imaggarcquyky2hr.jpeg?q=90&crop=false"
+    ],
+    "uses": "In moderation, rose can be a great drink for your health. It’s better than white wine because it has more antioxslugants like resveratrol.",
+    "season": ["evergreen"],
+    "category": ["climbers"],
+    "blooming_time": "December-March",
+    "soil_requirement": "Roses are quite adaptable to many types of soil, but they do their best in rich, fertile, loamy soil with good drainage.",
+    "watering_schedule": "Most all rose types need full sun; they thrive in loamy, well-drained soil and prefer a consistent drink of water: about an inch a week.",
+
+    "light_requirement": "Roses will grow in around 4 hours direct sun but will give less flowers."
+  },
+  {
+    "slug": "item52",
+    "type": "climbers",
+    "stock": 10,
+    "title": "Tecoma",
+    "scientific_name": "Tecoma stans",
+    "common_name": "Yellow Bells, Ginger-Thomas, Tecoma, Trumpet Flower",
+    "description": "Tecoma is a large shrub or tree, much branched tree, growing up to 1-8 m tall. The younger stems are smooth, hairless and 4-angled in cross-section, greenish, then pale- or reddish brown. The bark on the main stem is light brown to pale grey, furrowed and with relatively rough texture.",
+
+    "price": " 540",
+    "imageList": [
+      "https://nurserylive.com/cdn/shop/products/nurserylive-g-plants-tecoma-shurb-yellow-plant-in-grower-round-black-pot-783219.jpg?v=1679751756",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoY646gKiSjKyQFKH1FxA1x3DY7yQshqi2xJw09ZA94hAmKjte6c2zCV_JrmRoMwtAvb0&usqp=CAU"
+    ],
+    "uses": "A tree which often grown as landscape ornamentals in resslugential backyards, Parks and municipal sslugewalks. It provsluges firewood and charcoal. The wood is used in the construction of buildings and the leaf infusion can be taken orally for diabetes and stomach pains; a strong leaf and root decoction is taken orally as a diuretic, to treat syphilis or for intestinal worms",
+    "season": ["evergreen"],
+    "category": ["climbers"],
+    "blooming_time": "May-October",
+    "soil_requirement": "Though they grow in almost any soil, but do best in moderately fertile, well-drained soil.",
+    "watering_schedule": "Water this for the first year after planting. Established plants only require irrigation during dry periods when the soil begins to dry out completely. Water potted cassia when the top 1 inch of soil feels dry.",
+
+    "light_requirement": "low temperatures from 12 to 25 °C, average annual high temperatures from 23 to 34 °C."
+  },
+  {
+    "slug": "item53",
+    "type": "climbers",
+    "stock": 10,
+    "title": "Turtle Vine",
+    "scientific_name": "Callisia repens",
+    "common_name": "Inchplant, Bolivian Jew, Turtle Vine",
+    "description": " Turtle vine is a fast-growing perennial that grows to a whooping length of 20 inches per year in slugeal conditions. It has a spread of 3 m both horizontally and vertically that looks attractive in both containers and hanging baskets when mature. It has thick and small-sized foliage",
+
+    "price": " 540",
+    "imageList": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmXRGqFQtzEfDOYbxgSYtshslLYdjJyrzuaO_NMWDlBKLjlMQ-36NvwX0GB6sPgXm3I14&usqp=CAU",
+      "https://homegardenfirst.com/wp-content/uploads/2021/01/istockphoto-1204450271-612x612-1.jpg"
+    ],
+    "uses": "The turtle vine is primarily used for ornamental purposes. Growing turtle vine is easy in both indoor and outdoor, and that’s what makes turtle vine a valued ornamental houseplant. This vigorous plant creeps along the soil surface and the stems eventually cascade over the edge of the container. The purple stems and underssluges of the green leaves add to its appeal and become more pronounced in cooler temperatures.",
+    "season": ["evergreen"],
+    "category": ["climbers"],
+    "blooming_time": "Year-round",
+    "soil_requirement": "It’s key to choose a peat based potting mix that will offer adequate moisture but also drains fast enough to prevent the roots from sitting in water. I don’t recommend using a standard potting mix unless you amend it with perlite or other substrate that encourages better drainage.",
+    "watering_schedule": "The Turtle vine plant enjoys damp and moist soil during its growing season. Water the plant moderately to keep the soil consistently damp but avoslug overwatering or allowing the potting mix to completely dry out.",
+
+    "light_requirement": "full sun to partial shade"
+  },
+  {
+    "slug": "item56",
+    "type": "fruit-plants",
+    "title": "Allahabadi Guava",
+    "stock": 10,
+    "scientific_name": "Psslugium guajava",
+    "common_name": "Amrood, Safeda Guava",
+    "description": "It is an evergreen shrub or small tree grown for its edible fruits. Guava has a slender trunk with smooth green to red-brown bark. The trunk may be branched at the base and the branches droop low to the ground. The fruit is oval in shape and green to yellow in color.",
+    "price": " 520",
+    "imageList": [
+      "https://5.imimg.com/data5/SELLER/Default/2020/10/TX/DP/SG/35988233/guava-plant-500x500.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQciAHKpljbkb9brnT_pnORcztIepZDKA2KiA&usqp=CAU"
+    ],
+    "uses": "May help lower blood sugar levels, May aslug in weight loss, May help boost your immunity, May benefit your digestive system. Guava is a traditional remedy for a number of ailments.",
+    "season": ["summer", "winter"],
+    "category": ["fruit-plants"],
+    "blooming_time": "May-january",
+    "soil_requirement": "The soil should be Well-drained, deep, fertile loams are excellent, yet grapes thrive on soils containing clay, slate, gravel, shale and sand.",
+    "watering_schedule": "Guavas have survived dry summers with no water, although they do best with regular deep watering. The ground should be allowed to dry to a depth of several inches before watering again. Lack of moisture will delay bloom and cause the fruit to drop.",
+
+    "light_requirement": "Full sun"
+  },
+  {
+    "slug": "item57",
+    "type": "fruit-plants",
+    "title": "Almond",
+    "stock": 10,
+    "scientific_name": "Prunus dulcis",
+    "common_name": "Badaam, Almond",
+    "description": " Almond trees are decsluguous fruit plants which have hardy dormancy. It can grow up to 3–4.5 m tall and are strikingly beautiful when on flowering; they produce fragrant, five-petaled, light pink to white flowers. The fruit when ripens, have leathery outer covering, or hull.",
+    "price": " 540",
+    "imageList": [
+      "https://qph.cf2.quoracdn.net/main-qimg-31fd19a4cdfffa65d86ad3460676472d-lq",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-KF_Hups5tzaJCvQueKf5Tk4pBsrJ3uvf1ZSy6AMG02uelwx1uH_PI3udqzFRkwbqffI&usqp=CAU"
+    ],
+    "uses": "Almonds are rich in proteins, fibre and nutrients. Almonds reduce your risk of cholesterol. Almond can regulate blood sugar. Consuming almonds in excess can cause nausea, diarrhoea, shortness of breath and problems in swallowing etc.",
+    "season": ["summer", "spring"],
+    "category": ["fruit-plants"],
+    "blooming_time": "May-january",
+    "soil_requirement": "The almond plant grows best in a wsluge variety of soils from sandy loam to sandy clay, but prefers light, fertile, deep and well drained soils. The trees will grow best in soil with a pH of around 6.5, although they will tolerate acslugic, neutral and alkaline pH levels.",
+    "watering_schedule": "Almond trees die easily if they are not thoroughly watered as much as they need. Almonds need 2 inches of water every 2 weeks in the off-season. 3-4 inches of water every 2 weeks is slugeal in the peak growing season. You can reduce watering to 1 inch of water every 2 weeks during winter.",
+
+    "light_requirement": "The slugeal growing region for almond is an area that gets dry, hot summers with plenty of sunshine thus almond tree thrives in hot and dry climates."
+  },
+  {
+    "slug": "item58",
+    "type": "fruit-plants",
+    "title": "Amri Apple",
+    "featuredProducts": true,
+    "stock": 10,
+    "scientific_name": " Malus domestica",
+    "common_name": "Saib, Amri delicious apples",
+    "description": " The apple is a pome (fleshy) fruit, in which the ripened ovary and surrounding tissue both become fleshy and edible. The tree is small and decsluguous, reaching 3 to 12 m tall, with a broad, twiggy crown. Blossoms are produced in spring simultaneously with the budding of the leaves.",
+
+    "price": " 660",
+    "imageList": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMaebrhugaWiOLnWBOO8ogGjSCmlb0EENjv_2GvATM9P9euoEyhMtKkIKCQS4m8Ccv5uE&usqp=CAU",
+      "https://i.pinimg.com/736x/21/70/8e/21708ee80be3d3cf4b1b068df6c1d82a.jpg"
+    ],
+    "uses": "Apples are some of the most ancient and popular fruits in the world.  Mostly consumed fresh, they are processed into beverages, jam, jelly, and other forms of foods.",
+    "season": ["summer", "autumn"],
+    "category": ["fruit-plants"],
+    "blooming_time": "March and october",
+    "soil_requirement": "  light (sandy), medium (loamy) and heavy (clay) soils, prefers well-drained soil and can grow in heavy clay soil.",
+    "watering_schedule": "Apple plants like 1 inch of water a week during the growing season, but take care not to over water.  Too much watering can damage an apple tree.",
+
+    "light_requirement": "Apples grow best in climates where it’s cold in winter, moderate in summer and has medium to high humslugity."
+  },
+  {
+    "slug": "item59",
+    "type": "fruit-plants",
+    "title": "Anwar Ratol Mango",
+    "stock": 10,
+    "scientific_name": "Mangifera indica",
+    "common_name": "Mango, Aam",
+    "description": "Mango trees are evergreen with a thick trunk and wsluge canopy. They can grow to a height of 100 feet or more with a canopy extending to about 35 feet or more, depending upon the climate and richness of the soil. The leaves are leathery, lanceolate, and found in simple-alternate arrangement on the branches.",
+
+    "price": " 860",
+    "imageList": [
+      "https://plant.pk/wp-content/uploads/2020/02/mango-plants-600x600.jpeg",
+      "https://plant.pk/wp-content/uploads/2020/02/mango-plants-600x600.jpeg"
+    ],
+    "uses": " Mango is the most popular fruit of Pakistan. It is very delicious fruit. Mangoes are used to make Murabba (fruit preserves), Muramba (a sweet, grated mango delicacy), Amchur (dried and powdered unripe mango), and pickles, including a spicy mustard-oil pickle and alcohol.",
+    "season": ["summer"],
+    "category": ["fruit-plants"],
+    "blooming_time": "Feburay-March",
+    "soil_requirement": "Mango grows well on wsluge variety of soils, such as lateritic, alluvial, sandy loam and sandy. The loamy, alluvial, well-drained, aerated and deep soils (2-2.5 m) rich in organic matter",
+    "watering_schedule": "Mango trees need to be watered throughout the first two years of their life. Each tree needs about 26 gallons of water per week.",
+
+    "light_requirement": "The mango will tolerate a wsluge range of climates, from warm temperate to tropical."
+  },
+  {
+    "slug": "item60",
+    "type": "fruit-plants",
+    "title": "Apple",
+    "stock": 10,
+    "scientific_name": "Malus domestica",
+    "common_name": "Saib",
+    "description": " The apple is a fleshy fruit, in which the ripened ovary and surrounding tissue both become fleshy and edible. The tree is small and decsluguous, reaching 3 to 12 m tall, with a broad, twiggy crown. Blossoms are produced in spring simultaneously with the budding of the leaves.",
+
+    "imageList": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYu-3MVxR6_vGK7qNg-57-wRmdGsqveSIhn3CH0mmcJQDMrBKuVtPDpbiBK4T8t6MkFVs&usqp=CAU",
+      "https://m.media-amazon.com/images/I/61eTefzdDkS._AC_UF1000,1000_QL80_.jpg"
+    ],
+    "price": " 480",
+    "uses": " Apples are some of the most ancient and popular fruits in the world.  Mostly consumed fresh, they are processed into beverages, jam, jelly, and other forms of foods.",
+    "season": ["winter"],
+    "category": ["fruit-plants"],
+    "blooming_time": "April-May",
+    "soil_requirement": "  light (sandy), medium (loamy) and heavy (clay) soils, prefers well-drained soil and can grow in heavy clay soil.",
+    "watering_schedule": "Apple plants like 1 inch of water a week during the growing season, but take care not to over water.  Too much watering can damage an apple tree.",
+
+    "light_requirement": "Apples grow best in climates where it’s cold in winter, moderate in summer and has medium to high humslugity."
+  },
+  {
+    "slug": "item61",
+    "type": "fruit-plants",
+    "title": "Apricot",
+    "stock": 10,
+    "scientific_name": "Prunus dulcis",
+    "common_name": "Khubani, Khurmani",
+    "description": "Apricot, fruit tree cultivated throughout the temperate regions of the world. Apricots are closely related to peaches, almonds and plums.",
+
+    "imageList": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7zh0ktvHuSS9RkVMITBm7nBWe8S3k5hOJ7vFksdD5sTu468maZe7FiVF9VXEASxuDwL8&usqp=CAU",
+      "https://preview.redd.it/apricot-tree-advice-v0-71y1cn7qj71b1.jpg?width=640&crop=smart&auto=webp&s=2c76dfab95b94e7cfb8f950f87a09057811e9074"
+    ],
+    "price": " 590",
+    "uses": "Apricots are a great source of many antioxslugants, including beta carotene and vitamins A, C, and E. Apricots may promote gut health. Eating apricots may benefit your skin. help regulate blood pressure, body temperature, joint health, and heart rate.",
+    "season": ["summer", "autumn", "spring", "winter"],
+    "category": ["fruit-plants"],
+    "blooming_time": "Year-round",
+    "soil_requirement": "It require well-drained loamy soil for growing a strong root system, which will help produce fruit in larger quantities. Apricots thrive in soil with a pH between 6.5 and 8.0.",
+    "watering_schedule": "Apricots require irrigation during the growing season and summer months. For smaller trees, water deeply and slowly, away from the trunk, every one to two weeks.",
+
+    "light_requirement": "The optimum temperature for apricot is 28-30 0C during summer and as low upto 40C in winter, which is enough for its chilling requirements. "
+  },
+  {
+    "slug": "item62",
+    "type": "fruit-plants",
+    "title": "Aseel Date Palm",
+    "featuredProducts": true,
+    "stock": 10,
+    "scientific_name": "Phoenix dactylifera",
+    "common_name": " Date Palm, Common Dates, Khaji, Khajoor, ",
+    "description": "The date palm grows about 23 m tall. Its stem, strongly marked with the pruned stubs of old leaf bases, terminates in a crown of graceful, shining, pinnate leaves about 5 m long. Floral spikes branch from the axils of leaves that emerged the previous year.",
+
+    "imageList": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIW_PIkUEAz3bKuQqTE1SXDiTSOkqLRYf9iywXhdDRxdejKNcGSNzsy3Oer41gIgVvFiY&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIW_PIkUEAz3bKuQqTE1SXDiTSOkqLRYf9iywXhdDRxdejKNcGSNzsy3Oer41gIgVvFiY&usqp=CAU"
+    ],
+    "price": " 3450",
+    "uses": "Date palm used most for landscaping.  People use juice from the date palm for coughs and breathing problems. The pollen from date palm is used for swelling. Palm Thatch Roofs. Every part of this essential tree has been put to good use for centuries for traditional houses to using its leaves to make mats, baskets and fans to using the seeds to make soap and kohl eyeliner.",
+    "season": ["summer"],
+    "category": ["fruit-plants"],
+    "blooming_time": "April-May",
+    "soil_requirement": "Date palms require sandy loam and clayey loam soils and can tolerate soils with high levels of salts.",
+    "watering_schedule": "Date Palms require no watering once established. Generally, trees need supplemental irrigation to get established, especially if planted after the rainy season. During the first year, irrigate in the amount of 20 – 25 liters of water twice a week.",
+
+    "light_requirement": "Full sun"
+  },
+  {
+    "slug": "item63",
+    "type": "fruit-plants",
+    "title": "Avocado",
+    "stock": 10,
+    "scientific_name": "Persea americana",
+    "common_name": "Magar Nashpati, Makhanphal, Avocado",
+    "description": " Avocado trees produce clusters of small, green-yellow flowers at the end of twigs and a large, fleshy, pear-shaped fruit with a single large seed. The fruits can be purple to green in color with smooth or warty skin depending on variety. The flesh of the fruit is yellow-green in color and has the consistency of butter.",
+
+    "imageList": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3rSB8ImSypQnf4EJRIc-bQ-JB0T1_pNecBw&usqp=CAU",
+      "https://balconygardenweb.b-cdn.net/wp-content/uploads/2019/09/Growing-Avocado.jpg"
+    ],
+    "price": " 720",
+    "uses": "The seeds, leaves, and bark are used for dysentery and diarrhea. Avocado oil is applied directly to the skin to soothe and heal skin and to treat thickening of the skin.",
+    "season": ["winter"],
+    "category": ["fruit-plants"],
+    "blooming_time": "March and May",
+    "soil_requirement": "Avocados like loose, rich, well-draining soil. The soil may need to be sandy to accommodate the tree’s large roots.",
+    "watering_schedule": "Most avocado roots stay in the top six inches of soil, which can dry out quickly. Newly planted trees may need water two to three times per week their first year. Mature avocado trees need water equal to about 2 inches of rainfall or irrigation each week during summer.",
+
+    "light_requirement": "The avocado plant requires hot humslug weather and no frost. They need at least six hours of sunlight per day.."
+  },
+  {
+    "slug": "item64",
+    "type": "fruit-plants",
+    "title": "Banana",
+    "stock": 10,
+    "scientific_name": "Musa Balbisiana",
+    "common_name": "Banana, Kela",
+    "description": " It is a perennial plant that reaches a height of around 6 m, with pseudo stems of up to 30 cm in base diameter. The leaves are upright and in clumps. The flowers are red to maroon.",
+    "imageList": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuOU3I2svB51pJMgaSJV6vKCLzpIA_BTrBucwDn7E3r7szduWTVhdyfvRHnVvDW9slbwo&usqp=CAU",
+      "https://m.media-amazon.com/images/I/51q8+9czKyL.jpg"
+    ],
+    "price": " 1900",
+    "uses": "Some of the most popular fruits in the world.  Various parts of the plant can be used for the treatment of various diseases including diabetic, diarrhea, scabies and inflammations.",
+    "season": ["evergreen"],
+    "category": ["fruit-plants"],
+    "blooming_time": "April-May",
+    "soil_requirement": "Light (sandy), medium (loamy) and heavy (clay) soils and prefers well-drained soil",
+    "watering_schedule": "Most plants like 1 inch of water a week during the growing season, but take care not to over water. Too much watering can damage an apple tree.",
+
+    "light_requirement": "Prefer warm humslug temperatures for maximum growth. They grow fastest when the daytime highs are (27°C to 35°C). Growth will slow drastically below (14°C)"
+  },
+  {
+    "slug": "item65",
+    "type": "fruit-plants",
+    "title": "Bedana Pomegranate",
+    "stock": 10,
+    "scientific_name": "Mangifera indica",
+    "common_name": " Punica Granatum",
+    "description": "The pomegranate plant is a large shrub or small tree that has smooth, evergreen leaves and showy orange to red flowers. It has rounded fruit with a dry outer covering (husk) made up of two layers,a hard-outer layer called an epicarp and a soft inner layer called a mesocarp.",
+
+    "price": " 790",
+    "imageList": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKrLVVqKAaeo2YY9I3QSZ2A-QpLgjOshiKrA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7QIrOiOBFHyEEPUWd9y8BQnPWf57CSvbINA&usqp=CAU"
+    ],
+    "uses": " Various parts of the tree and fruit are used to make medicine. People use pomegranate for high blood pressure, athletic performance, heart disease.  Regular consumption of pomegranate helps in improving gut health, digestion.",
+    "season": ["summer"],
+    "category": ["fruit-plants"],
+    "blooming_time": "April-May",
+    "soil_requirement": "The pomegranate does best in well-drained ordinary soil. perform best on deep loamy soils, but will still grow quite well in sandy and clay soils",
+    "watering_schedule": "For best growth and production, pomegranates should receive at least one inch of water a week. During dry spells, water is mandatory.",
+
+    "light_requirement": "They will grow best in hot, dry summers and cool winters."
+  },
+  {
+    "slug": "item66",
+    "type": "fruit-plants",
+    "title": "Blackberry",
+    "stock": 10,
+    "scientific_name": "Rubus fruticosus",
+    "common_name": "Blackberry",
+    "description": "Blackberry is usually a fruit-bearing shrub known for its dark edible fruits. Blackberry is a perennial, semi-decsluguous plant. Its leaves usually feature three or five oval, coarsely toothed, stalked leaflets and flowers are white, pink, or red and produce black or red-purple fruits, It is most easily slugentified by its juicy, black, clustered berries.",
+
+    "price": " 1500",
+    "imageList": [
+      "https://balconygardenweb.b-cdn.net/wp-content/uploads/2022/08/Best-Blackberry-Varieties-for-Containers.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoJaL9oJALiEdE3Qrw8EE-qG8OrSMdJPxSqQ&s"
+    ],
+    "uses": "Blackberries have long been a source of nutritious food for humans and animals. These can be grown in home garden or on a commercial scale. The leaves and roots are used to make medicines. Blackberries contain vitamin A, which assists several functions in the body.",
+    "season": ["summer", "spring"],
+    "category": ["fruit-plants"],
+    "blooming_time": "March-October",
+    "soil_requirement": "Blackberries require well-drained sandy or loamy soils with a pH 5.5-6.5. A good supply of organic matter in the soil improves aeration and drainage and increases its water-holding capacity.",
+    "watering_schedule": "Blackberries require regular watering for its better production. Provsluge your blackberry plants 1-2 inches of water during the growing season.",
+
+    "light_requirement": "Full sun"
+  },
+  {
+    "slug": "item67",
+    "type": "fruit-plants",
+    "stock": 10,
+    "title": "Cardinal Grapes",
+    "scientific_name": "Vitis vinifera",
+    "common_name": "Common Grape Vine, Angoor",
+    "description": "It is a climbing plant and normally climbs on rocks or tree trunks. Tendrils grow on stems and are believed to be degenerated inflorescences. Leaves are big, opposite, heart resembled, and inflorescences grow across them.",
+
+    "imageList": [
+      "https://rukminim2.flixcart.com/image/850/1000/xif0q/plant-sapling/x/2/y/yes-perennial-yes-grapes-plant-369-medium-1-grow-bag-original-imagxszy4v3zhdpr.jpeg?q=90&crop=false",
+      "https://balconygardenweb.b-cdn.net/wp-content/uploads/2016/04/Pixie-Grape-1-e1655961685878.jpg"
+    ],
+    "price": " 1220",
+    "uses": " These are some of the most popular fruits in the Pakistan.  Grapes are the perfect addition to your 1.5 to 2 cups of recommended daily fruit intake, Beneficial for heart health, May decrease blood sugar levels and protect against diabetes.",
+    "season": ["summer"],
+    "category": ["fruit-plants"],
+    "blooming_time": "May-June",
+    "soil_requirement": "The soil should be Well-drained, deep, fertile loams are excellent, yet grapes thrive on soils containing clay, slate, gravel, shale, and sand.",
+    "watering_schedule": "Water a 3-by-3 foot section of soil at the base of each grape vine once each week.",
+
+    "light_requirement": "full sun to partial shade"
+  },
+  {
+    "slug": "item68",
+    "type": "fruit-plants",
+    "stock": 10,
+    "title": "Chaunsa Mango",
+    "scientific_name": "Mangifera Indica",
+    "common_name": "Mango, Aam",
+    "description": "Mango trees are evergreen trees with a thick trunk and wsluge canopy. They can grow to a height of 100 feet or more with a canopy extending to about 35 feet or more, depending upon the climate and richness of the soil. The leaves are leathery, lanceolate, and found in simple-alternate arrangement on the branches.",
+
+    "imageList": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkLsKAxfiFSIp-ykL8I9inb69rXLIHWnKCJXQqFpIoE0jT5NuV8BLipC6UjvQ7e6c4GJU&usqp=CAU",
+      "https://dukaan.b-cdn.net/700x700/webp/upload_file_service/cf7e1a94-ed78-4865-b8bd-a301b91a5b69/untitled-design-23.png"
+    ],
+    "price": " 1660",
+    "uses": " Mangoes are used to make murabba (fruit preserves), muramba (a sweet, grated mango delicacy), amchur (dried and powdered unripe mango), and pickles, including a spicy mustard-oil pickle and alcohol.",
+    "season": ["summer"],
+    "category": ["fruit-plants"],
+    "blooming_time": "Feburay-March",
+    "soil_requirement": "Mango grows well on wsluge variety of soils, such as lateritic, alluvial, sandy loam and sandy. The loamy, alluvial, well-drained, aerated and deep soils (2-2.5 m) rich in organic matter",
+    "watering_schedule": "Mango trees need to be watered throughout the first two years of their life. Each tree needs about 26 gallons of water per week.",
+
+    "light_requirement": "The mango will tolerate a wsluge range of climates, from warm temperate to tropical."
+  },
+  {
+    "slug": "item70",
+    "type": "fruit-plants",
+    "title": "Desi Mango",
+    "stock": 10,
+    "scientific_name": "Mangifera indica",
+    "common_name": "Mango, Aam",
+    "description": "Mango trees are evergreen with a thick trunk and wsluge canopy. They can grow to a height of 100 feet or more with a canopy extending to about 35 feet or more, depending upon the climate and richness of the soil. The leaves are leathery, lanceolate, and found in simple-alternate arrangement on the branches.",
+
+    "imageList": [
+      "https://balconygardenweb.b-cdn.net/wp-content/uploads/2020/04/mango-in-pot.jpg",
+      "https://balconygardenweb.b-cdn.net/wp-content/uploads/2020/04/mango-in-pot.jpg"
+    ],
+    "price": " 780",
+    "uses": " Mangoes are used to make murabba (fruit preserves), muramba (a sweet, grated mango delicacy), amchur (dried and powdered unripe mango), and pickles, including a spicy mustard-oil pickle and alcohol..",
+    "season": ["summer"],
+    "category": ["fruit-plants"],
+    "blooming_time": "Feburay-March",
+    "soil_requirement": "Mango grows well on wsluge variety of soils, such as lateritic, alluvial, sandy loam and sandy. The loamy, alluvial, well-drained, aerated and deep soils (2-2.5 m) rich in organic matter",
+    "watering_schedule": "Mango trees need to be watered throughout the first two years of their life. Each tree needs about 26 gallons of water per week.",
+
+    "light_requirement": "The mango will tolerate a wsluge range of climates, from warm temperate to tropical."
+  },
+  {
+    "slug": "item71",
+    "type": "fruit-plants",
+    "title": "Elaichi ",
+    "stock": 10,
+    "scientific_name": "Elettaria cardamomum",
+    "common_name": "Elaichi",
+    "description": "Cardamom is a perennial herb with thick rhizomes and leafy shoots. It belongs to the ginger family and grows up to about 2-4 meters in height. The plant produces small, greenish-white flowers with a subtle fragrance.",
+    "imageList": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJH2uPP5eY22T9SSxNA8jeJkSqMPbjy0vHLw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY-GxWfudDNHCrdgZeHC3EIu6ILw3rLIca2w&usqp=CAU"
+    ],
+    "price": " 560",
+    "uses": " Cardamom is primarily used as a spice in culinary applications, especially in Indian cuisine. It is also used for its medicinal properties in traditional medicine systems like Ayurveda.",
+    "season": ["summer"],
+    "category": ["fruit-plants"],
+    "blooming_time": "April-May",
+    "soil_requirement": "Cardamom prefers well-draining, fertile soil with high organic matter content.",
+    "watering_schedule": " Cardamom plants require regular watering, especially during dry periods. The soil should be kept consistently moist but not waterlogged.",
+
+    "light_requirement": "partial shade to full sun"
+  },
+  {
+    "slug": "item72",
+    "type": "fruit-plants",
+    "title": "Palm",
+    "stock": 10,
+    "scientific_name": "Prunus dornestica ",
+    "common_name": "Fazle Manani Plum",
+    "description": " Plums are decsluguous fruit trees that belong to the genus Prunus in the family Rosaceae. They typically have a rounded shape with smooth or slightly wrinkled skin, depending on the variety. The flesh of plums can range from juicy and sweet to slightly tart, and they come in various colors such as red, purple, yellow, or green.",
+
+    "imageList": [
+      "https://www.floragard.de/Content/files/28715/Prunus-domestica-subsp-1200x630-proportionalbiggest.webp",
+      "https://www.floragard.de/Content/files/28715/Prunus-domestica-subsp-1200x630-proportionalbiggest.webp"
+    ],
+    "price": " 400",
+    "uses": "Plums are consumed fresh as a fruit and are also used in cooking, baking, jams, jellies, and preserves. They are rich in vitamins, minerals, and antioxslugants and offer various health benefits.",
+    "season": ["autumn", "summer"],
+    "category": ["fruit-plants"],
+    "blooming_time": "March and April",
+    "soil_requirement": "Plums prefer well-drained soil with a pH range of about 5.5 to 6.5. They can tolerate various soil types but thrive in fertile, loamy soil.",
+    "watering_schedule": "Plum trees require regular watering, especially during dry periods and while the fruits are developing. It's essential to keep the soil consistently moist but not waterlogged to prevent root rot.",
+
+    "light_requirement": "Full sun"
+  },
+  {
+    "slug": "item73",
+    "type": "fruit-plants",
+    "title": "Fig",
+    "stock": 10,
+    "scientific_name": "Phoenix dactylifera",
+    "common_name": "Date Palm, Common Dates, Khaji, Khajoor, ",
+    "description": "The date palm grows about 23 m tall. Its stem, strongly marked with the pruned stubs of old leaf bases, terminates in a crown of graceful, shining, pinnate leaves about 5 m long. Floral spikes branch from the axils of leaves that emerged the previous year.",
+
+    "imageList": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyACQRCles729I7W8XD_YrR1T7zz3gVtBO8A&usqp=CAU",
+      "https://www.planetnatural.com/wp-content/uploads/2023/08/date-palm-watering-system.jpg"
+    ],
+    "price": " 1760",
+    "uses": " Date palm used most for landscaping.  People use juice from the date palm for coughs and breathing problems. The pollen from date palm is used for swelling. Palm Thatch Roofs. Every part of this essential tree has been put to good use for centuries for traditional houses to using its leaves to make mats, baskets and fans to using the seeds to make soap and kohl eyeliner.",
+    "season": ["summer"],
+    "category": ["fruit-plants"],
+    "blooming_time": "April-May",
+    "soil_requirement": "Date palms require sandy loam and clayey loam soils and can tolerate soils with high levels of salts.",
+    "watering_schedule": "Date Palms require no watering once established. Generally, trees need supplemental irrigation to get established, especially if planted after the rainy season. During the first year, irrigate in the amount of 20 – 25 liters of water twice a week.",
+
+    "light_requirement": "Full sun"
+  },
+  {
+    "slug": "item74",
+    "type": "fruit-plants",
+    "title": "Date Palm",
+    "stock": 10,
+    "scientific_name": " Phoenix dactylifera",
+    "common_name": "Date Palm, Common Dates, Khaji, Khajoor, ",
+    "description": "The date palm grows about 23 m tall. Its stem, strongly marked with the pruned stubs of old leaf bases, terminates in a crown of graceful, shining, pinnate leaves about 5 m long. Floral spikes branch from the axils of leaves that emerged the previous year.",
+
+    "imageList": [
+      "https://m.media-amazon.com/images/I/51CDuZZrokL._AC_UF1000,1000_QL80_.jpg",
+      "https://www.planetnatural.com/wp-content/uploads/2023/08/date-palm-watering-system.jpg"
+    ],
+    "price": " 1690",
+    "uses": " Date palm used most for landscaping.  People use juice from the date palm for coughs and breathing problems. The pollen from date palm is used for swelling. Palm Thatch Roofs. Every part of this essential tree has been put to good use for centuries for traditional houses to using its leaves to make mats, baskets and fans to using the seeds to make soap and kohl eyeliner.",
+    "season": ["summer"],
+    "category": ["fruit-plants"],
+    "blooming_time": "April-May",
+    "soil_requirement": "Date palms require sandy loam and clayey loam soils and can tolerate soils with high levels of salts.",
+    "watering_schedule": "Date Palms require no watering once established. Generally, trees need supplemental irrigation to get established, especially if planted after the rainy season. During the first year, irrigate in the amount of 20 – 25 liters of water twice a week.",
+
+    "light_requirement": "Full sun"
+  },
+  {
+    "slug": "item75",
+    "type": "Fertilizer",
+    "category": "fertilizer",
+    "title": "Liquid Seaweed Fertilizer",
+    "stock": 10,
+    "subtitle": "Liquid seaweed serves as excellent nourishment for plants.",
+    "price": 300,
+    "status": "In Stock",
+    "description": "It is rich in various minerals, vitamins, and enzymes, acting as natural growth stimulants.These unique nutrients stimulate the growth of plant cells, leading to stronger, healthier, and more disease-resistant plants.",
+    "benefits": "Controls and balances plant growth, preventing excessive branch growth and reducing the need for pruning.Enhances leaf growth and photosynthesis, facilitating nutrient accumulation, transport, and storage.",
+    "imageList": [
+      "https://www.gulab.pk/lahore/wp-content/uploads/sites/29/2023/10/Liquid-Seaweed-Fertilizer-Bio-Stimulant.jpg"
+    ]
+  },
+  {
+    "slug": "item76",
+    "type": "Fertilizer",
+    "title": "Fruit Tree Fertilizer",
+    "stock": 10,
+    "subtitle": "Suitable for container plants or backyard soils",
+    "price": 350,
+    "status": "In Stock",
+    "category": "fertilizer",
+    "description": "Promotes nutritionally balanced, rich and healthy soil.Supports the growth of the healthiest plants",
+    "benefits": "Controls and balances plant growth, preventing excessive branch growth and reducing the need for pruning.Enhances leaf growth and photosynthesis, facilitating nutrient accumulation, transport, and storage.",
+    "imageList": [
+      "https://www.gulab.pk/lahore/wp-content/uploads/sites/29/2023/10/Liquid-Seaweed-Fertilizer-Bio-Stimulant.jpg"
+    ]
+  },
+  {
+    "slug": "item77",
+    "type": "Fertilizer",
+    "title": "Hara Flower Mix",
+    "stock": 10,
+    "subtitle": "The Ultimate Solution for Flower Production",
+    "price": 250,
+    "status": "In Stock",
+    "category": "fertilizer",
+    "description": "Crafted to cater to the specific needs of flower production.It eliminates the guesswork, providing an all-inclusive solution for enhancing flower growth.",
+    "benefits": "Ensures a consistent and gradual uptake of nutrients by plants.Improves the soil’s physical properties and water retention capacity.",
+    "imageList": [
+      "https://www.gulab.pk/lahore/wp-content/uploads/sites/29/2023/09/Flower-Mix.jpg"
+    ]
+  },
+  {
+    "slug": "item78",
+    "type": "Fertilizer",
+    "title": "Grow Ever Fertilizer",
+    "stock": 10,
+    "subtitle": "Grow Ever is a versatile organic fertilizer",
+    "price": 250,
+    "status": "In Stock",
+    "category": "fertilizer",
+    "description": "Highly effective for the growth of trees, houseplants, flowers, and vegetables.Encourages deeper root systems",
+    "benefits": "Enhances soil texture.Improves the soil’s physical properties and water retention capacity.",
+    "imageList": [
+      "https://www.gulab.pk/lahore/wp-content/uploads/sites/29/2023/10/Grow-ever-Fertilizer.webp"
+    ]
+  },
+  {
+    "slug": "item79",
+    "type": "Fertilizer",
+    "title": "Lawn Fertilizer",
+    "stock": 10,
+    "subtitle": "Handcrafted from feed grade ingredients",
+    "price": 350,
+    "status": "In Stock",
+    "category": "fertilizer",
+    "description": "Enriched with organic nutrients from Neem cake, bone meal, blood meal, and mined minerals.Slow-release formula, won’t burn plants or grass",
+    "benefits": "Available in pelletized form for easy application",
+    "imageList": [
+      "https://www.gulab.pk/lahore/wp-content/uploads/sites/29/2023/10/Grow-ever-Fertilizer.webp"
+    ]
+  },
+  {
+    "slug": "item80",
+    "type": "Fertilizer",
+    "title": "Vegetable & Herbs Fertilizer",
+    "stock": 10,
+    "subtitle": "Handcrafted from feed grade ingredients",
+    "price": 350,
+    "status": "In Stock",
+    "category": "fertilizer",
+    "description": "Handcrafted from high-quality feed grade ingredients, Vegetable Garden Plant Nutrition is a versatile and potent source of plant nutrition for your garden.",
+    "benefits": "Offers a comprehensive nutrient profile suitable for use throughout the entire growing season. Grow and enjoy your vibrant veggies!",
+    "imageList": [
+      "https://www.gulab.pk/lahore/wp-content/uploads/sites/29/2023/10/Vegetable-Herbs-Fertilizer.jpg"
+    ]
+  },
+  {
+    "slug": "item81",
+    "type": "Seeds",
+    "title": "Antirrhinum Seeds",
+    "stock": 10,
+    "subtitle": "They typically have simple, lance-shaped leaves.",
+    "price": 250,
+    "status": "In Stock",
+    "category": "seed",
+    "description": "Known as snapdragons, they are a popular ornamental plant with flowers appearing on stalks from the base of the plant. They are also grown from cuttings.",
+    "benefits": "Offers a comprehensive nutrient profile suitable for use throughout the entire growing season. Grow and enjoy your vibrant veggies!",
+    "imageList": [
+      "https://www.gulab.pk/lahore/wp-content/uploads/sites/29/2023/12/Antirrhinum-front-jpg.webp"
+    ]
+  },
+  {
+    "slug": "item82",
+    "title": "Flowering Cabbage Seeds",
+    "stock": 10,
+    "type": "Seeds",
+    "subtitle": "It features smooth, wavy-edged leaves with a vibrant rosette center in various colors.",
+    "price": 250,
+    "status": "In Stock",
+    "category": "seed",
+    "description": "Known as snapdragons, they are a popular ornamental plant with flowers appearing on stalks from the base of the plant. They are also grown from cuttings.",
+    "benefits": "The plant grows with a mounding habit and is considered edible, although it has a very bitter taste.Flowering Cabbage is often used as a food garnish and is also known as kale.",
+
+    "imageList": [
+      "https://www.gulab.pk/lahore/wp-content/uploads/sites/29/2023/12/Flowering-Cabbage-F1-Hybrid-front-jpg.webp",
+      "https://www.gulab.pk/lahore/wp-content/uploads/sites/29/2022/02/fine-dhaka-grass.jpg"
+    ]
+  },
+  {
+    "slug": "item83",
+    "type": "grass",
+    "title": "Fine Dhaka Grass",
+    "stock": 10,
+    "scientific_name": "oysia Matrella",
+    "common_name": "Fine Dhaka",
+    "description": "Zoysia grass has a fine to medium texture and a dark green color. The 1cm wide leaf blades, which are stiffer than Bermuda grass blades, have short hairs and emerge at right angles to the leaf stalks. The seeds form along opposite sides of a spike.",
+    "imageList": [
+      "https://www.gulab.pk/lahore/wp-content/uploads/sites/29/2022/02/fine-dhaka-grass.jpg",
+      "https://www.gulab.pk/lahore/wp-content/uploads/sites/29/2022/02/fine-dhaka-grass-1.jpg"
+    ],
+    "price": "40",
+    "uses": "Fine Dhaka lawn grass is used around houses, apartments, commercial buildings and offices. Many city parks also have large lawn areas where it purify and improve air quality and takes up carbon dioxide and releases oxygen like all living plants. Improves water quality and prevents erosion. It creates a cooling effect during warm weather create a visual appeal.",
+    "season": ["evergreen"],
+    "category": ["grass"],
+    "soil_requirement": "The perfectly balanced loamy soil has the good qualities of both clay and sandy soils: good permeability, drainage, and water retention.",
+    "watering_schedule": "Water deeply once/week in the cooler months, then twice/week as evaporation increases in the summer months. needs about one inch of water a week considering rainfall. Overwatering may promote disease outbreak.",
+
+    "light_requirement": "Zoysia grass is a warm-weather grass. It grows best in very warm to hot weather, above 26°C. It will stop growing when the first frost hits and remain dormant and brown throughout winter. Zoysia tolerates a wide range of humidity."
+  },
+  {
+    "slug": "item84",
+    "type": "grass",
+    "title": "Korean Grass",
+    "stock": 10,
+    "scientific_name": "Calamagrostis Arundinacea",
+    "common_name": "Korean Grass",
+    "description": "A slow-growing grass requires less maintenance, it has very thick, layered padded foliage which offers real cushion-like comfort. dense and dark green appearance.",
+    "imageList": [
+      "https://www.gulab.pk/lahore/wp-content/uploads/sites/29/2022/03/korean-grass.jpg",
+      "https://www.gulab.pk/lahore/wp-content/uploads/sites/29/2022/03/korean-grass-1.jpg"
+    ],
+    "price": " 1690",
+    "uses": "Ideal for erosion control and used in parks, golf courses, and other places of interest.",
+    "season": ["evergreen"],
+    "category": ["grass"],
+    "blooming_time": "April-May",
+    "soil_requirement": "Needs 2-3 hrs sun exposure.  It does best in full sun but will also tolerate some shade, Dormant in winter.",
+    "watering_schedule": "Needs about one inch of water a week considering rainfall. Overwatering may promote disease outbreak.",
+
+    "light_requirement": "Full sun"
+  },
+  {
+    "slug": "item85",
+    "type": "succulents",
+    "title": "Aloinopsis",
+    "stock": 10,
+    "scientific_name": "Aloinopsis Luckhoffii",
+    "common_name": "Aloinopsis",
+    "description": "It is a low multi-branching succulent plant forming dense mats of clustered rosettes. Leaves are Thick, small knob-like dark blue-green.",
+    "imageList": [
+      "https://www.gulab.pk/lahore/wp-content/uploads/sites/29/2022/01/Aloinopsis-2.jpg",
+      "https://www.gulab.pk/lahore/wp-content/uploads/sites/29/2022/01/Aloinopsis.jpg"
+    ],
+    "price": " 3020",
+    "uses": "Plant is used for ornamental houseplant indoor for its Foliage and floral beauty.",
+    "season": ["evergreen"],
+    "category": ["succulents"],
+    "soil_requirement": "Prefer a sandy, sharply draining mix. Cacti or succulent potting mix is great. You can amend a regular potting soil with sand or pumice up to 50% to improve grittiness and drainage.",
+    "watering_schedule": "They are drought tolerant plants that store a lot of water in their knobby leaves and bulbous roots. Their soil should always be allowed to dry out entirely before watering thoroughly.",
+
+    "light_requirement": "A sunny position brings out the best color of flowers. Maintain indoor temperatures above 20°C. Humidity: They will tolerate low levels of humidity with no harm, even preferring dryness to humid, damp conditions."
+  },
+  {
+    "slug": "item86",
+    "type": "equipments",
+    "title": "gloves",
+    "stock": 10,
+    "description": "If you’ve ever tried pulling up nettles or cutting back thorny shrubs without them, you’ll understand why gloves are at the top of this list.",
+    "imageList": [
+      "https://www.gulab.pk/lahore/wp-content/uploads/sites/29/2022/01/Aloinopsis-2.jpg",
+      "https://www.gulab.pk/lahore/wp-content/uploads/sites/29/2022/01/Aloinopsis.jpg"
+    ],
+    "price": " 300",
+    "category": ["equipments"]
+  },
+  {
+    "slug": "item87",
+    "type": "equipments",
+    "title": "Hand fork",
+    "stock": 10,
+    "description": "Another small but essential garden tool, a hand fork allows you to break up hard, lumpy soil and mix in crumbly compost to achieve a consistency that your plants can grow roots in.",
+    "imageList": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI1ROgj1E4SBGOBMcA1mDYpTEt4TfZHYLr_Q&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMm_RryBLo1_2GKyN2z8dwXx0UxbJhhBbBUw&s"
+    ],
+    "price": " 300",
+    "category": ["equipments"]
+  },
+  {
+    "slug": "item88",
+    "type": "equipments",
+    "title": "Lawn mower",
+    "stock": 10,
+    "description": "If you have a lawn of any size, it’s difficult to do without a lawnmower.",
+    "imageList": [
+      "https://wigmoretrading.com/wp-content/uploads/2022/12/buy-lawn-mower-in-nigeria.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q  =tbn:ANd9GcSCoJvBdWkSOZSn5ztEfRBYOzl9Z8wyc-0oiQ&s"
+    ],
+    "price": " 1900",
+    "category": ["equipments"]
+  },
+  {
+    "slug": "item89",
+    "type": "equipments",
+    "title": "Nozzels",
+    "stock": 10,
+    "description": "If you have a lawn of any size, it’s difficult to do without a lawnmower.",
+    "imageList": [
+      "https://www.gardengatemagazine.com/review/wp-content/uploads/2024/07/31B5IMH4MEL._SL500_-channel-323-article-227384-review-1301226.jpg",
+      "https://www.gardengatemagazine.com/review/wp-content/uploads/2024/07/41nmovTHrRL._SL500_-channel-323-article-227384-review-1301228.jpg"
+    ],
+    "price": " 1900",
+    "category": ["equipments"]
+  }
+]
